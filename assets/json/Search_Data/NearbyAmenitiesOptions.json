@@ -1,0 +1,7 @@
+[
+  {"id":"mrt","value":"MRT"},
+  {"id":"busstop","value":"Bus Stops"},
+  {"id":"mall","value":"Shopping Malls"},
+  {"id":"school","value":"Schools"},
+  {"id":"childcare","value":"Childcare Centers"}
+]

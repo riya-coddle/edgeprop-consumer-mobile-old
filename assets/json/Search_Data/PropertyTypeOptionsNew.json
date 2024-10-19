@@ -1,0 +1,273 @@
+[
+  {
+    "id": "",
+    "value": "All Types",
+    "sub": []
+  },
+  {
+    "id":"103,107,105,106,104",
+    "value": "All Apartment/Condo",
+    "sub": [
+      {
+        "id":"103",
+        "value": "Apartment"
+      },
+      {
+        "id":"107",
+        "value": "Cluster House"
+      },
+      {
+        "id":"105",
+        "value": "Condominium"
+      },
+      {
+        "id":"106",
+        "value": "Executive Condominium"
+      },
+      {
+        "id":"104",
+        "value": "Walk-up"
+      }
+    ]
+  },
+  {
+    "id":"75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,99,100,96,101,102,97,98",
+    "value": "All HDB",
+    "sub": [
+      {
+        "id":"75",
+        "value": "1-Room/Studio",
+        "cat": "1-Room"
+      },
+      {
+        "id":"76",
+        "value": "2A",
+        "cat": "2-Room"
+      },
+      {
+        "id":"77",
+        "value": "2I (Improved)",
+        "cat": "2-Room"
+      },
+      {
+        "id":"78",
+        "value": "2S (Standard)",
+        "cat": "2-Room"
+      },
+      {
+        "id":"79",
+        "value": "3A",
+        "cat": "3-Room"
+      },
+      {
+        "id":"80",
+        "value": "3NG (New Generation)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"81",
+        "value": "3A (Modified)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"82",
+        "value": "3NG (Modified)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"83",
+        "value": "3I (Improved)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"84",
+        "value": "3I (Modified)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"85",
+        "value": "3S (Simplified)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"86",
+        "value": "3STD (Standard)",
+        "cat": "3-Room"
+      },
+      {
+        "id":"87",
+        "value": "4A",
+        "cat": "4-Room"
+      },
+      {
+        "id":"88",
+        "value": "4NG (New Generation)",
+        "cat": "4-Room"
+      },
+      {
+        "id":"89",
+        "value": "4S (Simplified)",
+        "cat": "4-Room"
+      },
+      {
+        "id":"90",
+        "value": "4I (Improved)",
+        "cat": "4-Room"
+      },
+      {
+        "id":"91",
+        "value": "4STD (Standard)",
+        "cat": "4-Room"
+      },
+      {
+        "id":"92",
+        "value": "5A",
+        "cat": "5-Room"
+      },
+      {
+        "id":"93",
+        "value": "5I",
+        "cat": "5-Room"
+      },
+      {
+        "id":"94",
+        "value": "5S",
+        "cat": "5-Room"
+      },
+      {
+        "id":"95",
+        "value": "Jumbo",
+        "cat": "Jumbo"
+      },
+      {
+        "id":"99",
+        "value": "EA (Exec Apartment)",
+        "cat": "Executive"
+      },
+      {
+        "id":"100",
+        "value": "EM (Exec Maisonette)",
+        "cat": "Executive"
+      },
+      {
+        "id":"96",
+        "value": "MG (Multi-Generation)",
+        "cat": "Jumbo"
+      },
+      {
+        "id":"101",
+        "value": "Terrace",
+        "cat": "Executive"
+      },
+      {
+        "id":"102",
+        "value": "Premium Apartment",
+        "cat": "Executive"
+      },
+      {
+        "id":"97",
+        "value": "Adjoined Flat",
+        "cat": "Jumbo"
+      },
+      {
+        "id":"98",
+        "value": "Model A Maisonette",
+        "cat": "Jumbo"
+      }
+    ]
+  },
+  {
+    "id":"108,118,113,109,110,112,114,111,115,116,117",
+    "value": "All Landed Residential",
+    "sub": [
+      {
+        "id": "108",
+        "value": "Good Class Bungalow"
+      },
+      {
+        "id": "118",
+        "value": "Conservation House"
+      },
+      {
+        "id": "113",
+        "value": "Corner Terrace"
+      },
+      {
+        "id":"109",
+        "value": "Detached House"
+      },
+      {
+        "id": "110",
+        "value": "Bungalow House"
+      },
+      {
+        "id": "112",
+        "value": "Cluster House"
+      },
+      {
+        "id": "114",
+        "value": "Land Only"
+      },
+      {
+        "id":"111",
+        "value": "Semi-Detached"
+      },
+      {
+        "id": "115",
+        "value": "Shophouse"
+      },
+      {
+        "id":"116",
+        "value": "Terraced House"
+      },
+      {
+        "id": "117",
+        "value": "Town House"
+      }
+    ]
+  },
+  {
+    "id":"119,120,121,122",
+    "value": "All Commercial",
+    "sub": [
+      {
+        "id":"119",
+        "value": "Office"
+      },
+      {
+        "id":"120",
+        "value": "Shop"
+      },
+      {
+        "id":"121",
+        "value": "Shophouse"
+      },
+      {
+        "id":"122",
+        "value": "Medical"
+      }
+    ]
+  },
+  {
+    "id":"123,124,125,126",
+    "value": "All Industrial",
+    "sub": [
+      {
+        "id":"123",
+        "value": "Light Industrial (B1)"
+      },
+      {
+        "id":"124",
+        "value": "Factory / Workshop (B2)"
+      },
+      {
+        "id":"125",
+        "value": "Warehouse"
+      },
+      {
+        "id":"126",
+        "value": "Dormitory"
+      }
+    ]
+  }
+]

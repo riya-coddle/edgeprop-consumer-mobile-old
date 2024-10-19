@@ -1,0 +1,20 @@
+[
+        {
+            "label": "Furnishing",
+            "value": ""
+            
+        },
+        {
+            "label": "Fully furnished",
+            "value": "fully"
+            
+        },
+        {
+            "label": "Partially furnished",
+            "value": "partial"
+        },
+        {
+            "label": "Unfurnished",
+            "value": "none"
+        }        
+    ]

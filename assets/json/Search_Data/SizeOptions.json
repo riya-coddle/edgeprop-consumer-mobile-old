@@ -1,0 +1,15 @@
+[
+  {"id":"250","value":"250 sqft (23 sqm)"},
+  {"id":"500","value":"500 sqft (46 sqm)"},
+  {"id":"750","value":"750 sqft (70 sqm)"},
+  {"id":"1000","value":"1,000 sqft (93 sqm)"},
+  {"id":"1200","value":"1,200 sqft (112 sqm)"},
+  {"id":"1500","value":"1,500 sqft (139 sqm)"},
+  {"id":"2000","value":"2,000 sqft (186 sqm)"},
+  {"id":"2500","value":"2,500 sqft (232 sqm)"},
+  {"id":"3000","value":"3,000 sqft (279 sqm)"},
+  {"id":"4000","value":"4,000 sqft (372 sqm)"},
+  {"id":"5000","value":"5,000 sqft (465 sqm)"},
+  {"id":"7500","value":"7,500 sqft (697 sqm)"},
+  {"id":"10000","value":"10,000 sqft (929 sqm)"}
+]

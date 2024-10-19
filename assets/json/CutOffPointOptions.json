@@ -1,0 +1,8 @@
+[
+  {"id":"All","value":"All"},
+  {"id":"a","value":">250"},
+  {"id":"b","value":"226-250"},
+  {"id":"c","value":"200-225"},
+  {"id":"d","value":"<200"},
+  {"id":"Unknown","value":"Others"}
+]

@@ -1,0 +1,29 @@
+[
+        {
+            "label": "All Types",
+            "value": ""
+            
+        },
+        {
+            "label": "Residential",
+            "value": "rl"
+            
+        },
+        {
+            "label": "Residential (landed only)",
+            "value": "l-36"
+        },
+        {
+            "label": "Residential (non landed only)",
+            "value": "r-33"
+        },
+        {
+            "label": "Commercial",
+            "value": "c-60"
+        },
+        {
+            "label": "Industrial",
+            "value": "i-70"
+        },
+        
+    ]

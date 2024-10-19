@@ -1,0 +1,34 @@
+[
+  // {
+  //   "id":"",
+  //   "value":"Any"
+  // },
+  // {
+    "id":"1",
+    "value": "1-Room"
+  },
+  {
+    "id":"2",
+    "value": "2-Room"
+  },
+  {
+    "id":"3",
+    "value": "3-Room"
+  },
+  {
+    "id":"4",
+    "value": "4-Room"
+  },
+  {
+    "id":"5",
+    "value": "5-Room"
+  },
+  {
+    "id":"executive",
+    "value": "Executive"
+  },
+  {
+    "id":"jumbo",
+    "value": "Jumbo"
+  }
+]

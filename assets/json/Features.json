@@ -1,0 +1,8 @@
+[
+  { id: "city_view", value: "City View" },
+  { id: "corner", value: "Corner Unit" },
+  { id: "park_green_view", value: "Park / Greenery View" },
+  { id: "penthouse", value: "Penthouse" },
+  { id: "pool_view", value: "Swimming Pool View" },
+  { id: "sea_view", value: "Sea View" }
+]

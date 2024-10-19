@@ -1,0 +1,47 @@
+{
+    "MenuItem": [
+       /* {
+            "title": "Anywhere in Singapur",
+            "accordion": "search",
+            "icon": "",
+            "MenuItem": [],
+            "screen": ""
+        },*/
+        
+        {
+            "title": "Search by MRT/LRT",
+            "accordion": "search",
+            "icon": "MRT",
+            "MenuItem": [],
+            "screen": "MRTSelectionNav"
+        }, 
+        {
+            "title": "Search by Area",
+            "accordion": "search",
+            "icon": "Area",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+       /* {
+            "title": "Search by Project",
+            "accordion": "search",
+            "icon": "",
+            "MenuItem": [],
+            "screen": ""
+        },
+        {
+            "title": "Search by Point of Interest",
+            "accordion": "search",
+            "icon": "",
+            "MenuItem": [],
+            "screen": ""
+        },
+        {
+            "title": "Search by Street",
+            "accordion": "search",
+            "icon": "",
+            "MenuItem": [],
+            "screen": ""
+        }*/
+    ]
+}

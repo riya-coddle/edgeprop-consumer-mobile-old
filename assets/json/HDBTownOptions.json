@@ -1,0 +1,53 @@
+[
+  {
+    "category": {"id":"c","value":"Central Region"},
+    "items": [
+      {"id":"1054","value":"Bishan"},
+      {"id":"1056","value":"Bukit Merah"},
+      {"id":"1058","value":"Bukit Timah"},
+      {"id":"1059","value":"Central Area"},
+      {"id":"1062","value":"Geylang"},
+      {"id":"1066","value":"Kallang/Whampoa"},
+      {"id":"1067","value":"Marine Parade"},
+      {"id":"1070","value":"Queenstown"},
+      {"id":"1075","value":"Toa Payoh"}
+    ]
+  },
+  {
+    "category": {"id":"e","value":"East Region"},
+    "items": [
+      {"id":"1053","value":"Bedok"},
+      {"id":"1068","value":"Pasir Ris"},
+      {"id":"1074","value":"Tampines"}
+    ]
+  },
+  {
+    "category": {"id":"n","value":"North Region"},
+    "items": [
+      {"id":"1071","value":"Sembawang"},
+      {"id":"1076","value":"Woodlands"},
+      {"id":"1077","value":"Yishun"}
+    ]
+  },
+  {
+    "category": {"id":"ne","value":"North East Region"},
+    "items": [
+      {"id":"1052","value":"Ang Mo Kio"},
+      {"id":"1063","value":"Hougang"},
+      {"id":"1069","value":"Punggol"},
+      {"id":"1072","value":"Sengkang"},
+      {"id":"1073","value":"Serangoon"}
+    ]
+  },
+  {
+    "category": {"id":"w","value":"West Region"},
+    "items": [
+      {"id":"1055","value":"Bukit Batok"},
+      {"id":"1057","value":"Bukit Panjang"},
+      {"id":"1060","value":"Choa Chu Kang"},
+      {"id":"1061","value":"Clementi"},
+      {"id":"1064","value":"Jurong East"},
+      {"id":"1065","value":"Jurong West"}
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+    "Transaction":[
+        {
+            "Date": "17-Nov-16",
+            "Address": "224 Jalan Eunos #XX-XX",
+            "Area": "527",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "17-Oct-16",
+            "Address": "198 Jalan Eunos #XX-XX",
+            "Area": "1,012",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "14-Oct-16",
+            "Address": "204 Jalan Eunos #XX-XX",
+            "Area": "1,130",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "10-Oct-16",
+            "Address": "198 Jalan Eunos #XX-XX",
+            "Area": "538",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "26-Sep-16",
+            "Address": "212 Jalan Eunos #XX-XX",
+            "Area": "904",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "21-Sep-16",
+            "Address": "202 Jalan Eunos #XX-XX",
+            "Area": "549",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "19-Sep-16",
+            "Address": "206 Jalan Eunos #XX-XX",
+            "Area": "614",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "19-Sep-16",
+            "Address": "224 Jalan Eunos #XX-XX",
+            "Area": "549",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "19-Sep-16",
+            "Address": "224 Jalan Eunos #XX-XX",
+            "Area": "527",
+            "TypeOfArea": ""
+        },
+        {
+            "Date": "15-Sep-16",
+            "Address": "186 Jalan Eunos #XX-XX",
+            "Area": "1,130",
+            "TypeOfArea": ""
+        }
+    ]
+}
+                

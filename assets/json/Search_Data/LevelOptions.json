@@ -1,0 +1,8 @@
+[
+  {"id":"ground","value":"Ground"},
+  {"id":"low","value":"Low"},
+  {"id":"mid","value":"Mid"},
+  {"id":"high","value":"High"},
+  {"id":"penthouse","value":"Penthouse"},
+  {"id":"holder","value":"Landed"}
+]

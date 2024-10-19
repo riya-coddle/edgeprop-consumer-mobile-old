@@ -1,0 +1,116 @@
+[
+  {
+    "id": "",
+    "value": "All Types",
+    "sub": []
+  },
+  {
+    "id":"10,11,12",
+    "value": "All Apartment/Condo",
+    "sub": [
+      {
+        "id":"10",
+        "value": "Apartment"
+      },
+      {
+        "id":"11",
+        "value": "Condominium"
+      },
+      {
+        "id":"12",
+        "value": "Executive Condominium"
+      }
+    ]
+  },
+  {
+    "id":"14,15,16,17,18,19,20",
+    "value": "All HDB",
+    "sub": [
+      {
+        "id":"14",
+        "value": "1-Room"
+      },
+      {
+        "id":"15",
+        "value": "2-Room"
+      },
+      {
+        "id":"16",
+        "value": "3-Room"
+      },
+      {
+        "id":"17",
+        "value": "4-Room"
+      },
+      {
+        "id":"18",
+        "value": "5-Room"
+      },
+      {
+        "id":"19",
+        "value": "Executive"
+      },
+      {
+        "id":"20",
+        "value": "Jumbo"
+      }
+    ]
+  },
+
+  {
+    "id":"22,23,24",
+    "value": "All Landed Residential",
+    "sub": [
+      {
+        "id":"22",
+        "value": "Detached House"
+      },
+      {
+        "id":"23",
+        "value": "Semi-Detached House"
+      },
+      {
+        "id":"24",
+        "value": "Terrace House"
+      }
+    ]
+  },
+
+  {
+    "id":"26,27,28,29",
+    "value": "All Commercial",
+    "sub": [
+      {
+        "id":"26",
+        "value": "Office"
+      },
+      {
+        "id":"27",
+        "value": "Shop"
+      },
+      {
+        "id":"28",
+        "value": "Shop House"
+      },
+      {
+        "id":"29",
+        "value": "Medical"
+      }
+    ]
+  },
+
+  {
+    "id":"31,32",
+    "value": "All Industrial",
+    "sub": [
+      {
+        "id":"31",
+        "value": "Factory"
+      },
+      {
+        "id":"32",
+        "value": "Warehouse"
+      }
+    ]
+  }
+]

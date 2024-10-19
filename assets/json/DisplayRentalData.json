@@ -1,0 +1,26 @@
+{
+  "1": {
+    "title":"1-Bedroom",
+    "color":"rgb(204, 0, 0)"
+  },
+  "2": {
+    "title":"2-Bedroom",
+    "color":"rgb(255, 165, 0)"
+  },
+  "3": {
+    "title":"3-Bedroom",
+    "color":"rgb(0, 128, 0)"
+  },
+  "4":{
+    "title":"4-Bedroom",
+    "color":"#009688"
+  },
+  "5":{
+    "title":"5-Bedroom",
+    "color":"#673AB7"
+  },
+  "NA":{
+    "title":"NA-Bedroom",
+    "color":"rgb(64, 64, 64)"
+  },
+}

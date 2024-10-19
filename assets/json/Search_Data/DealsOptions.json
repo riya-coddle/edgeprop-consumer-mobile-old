@@ -1,0 +1,7 @@
+[
+  // {"id":"","value":"Any"},
+  {"id": "5","value":"5% below EFV"},
+  {"id": "10","value":"10% below EFV"},
+  {"id": "15","value":"15% below EFV"},
+  {"id": "20","value":"20% below EFV"}
+]

@@ -1,0 +1,10 @@
+[
+  { value: "Air Conditioning", id: "air_con" },
+  { value: "Bathtub", id: "bathtub" },
+  { value: "Cooker Hob / Hood", id: "cooker_hob" },
+  { value: "Hairdryer", id: "hairdryer" },
+  { value: "Intercom", id: "intercom" },
+  { value: "Jacuzzi", id: "jacuzzi" },
+  { value: "Private Pool", id: "private_pool" },
+  { value: "Water Heater", id: "water_heater" }
+]

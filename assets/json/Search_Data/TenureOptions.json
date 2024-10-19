@@ -1,0 +1,8 @@
+[
+  {"id":"fh", "value":"Freehold"},
+  {"id":"999lh", "value":"999 years" },
+  {"id":"99lh", "value":"99 years" },
+  {"id":"30lh", "value":"30 years" },
+  {"id":"60lh", "value":"60 years" },
+  {"id":"lh", "value":"Leasehold" }
+]

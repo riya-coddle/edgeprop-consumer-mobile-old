@@ -1,0 +1,56 @@
+[
+    {
+      "category": {"id":"c","value":"Central Region"},
+      "items": [
+        {"id":"1024","value":"D1 - Cecil, Marina, Raffles Place, People's Park, Boat Quay"},
+        {"id":"1025","value":"D2 - Anson Road, Chinatown, Tanjong Pagar"},
+        {"id":"1026","value":"D3 - Queenstown, Tiong Bahru, Alexandra, Commonwealth"},
+        {"id":"1027","value":"D4 - Telok Blangah, WTC, Mount Faber, Harbourfront, Sentosa"},
+        {"id":"1029","value":"D6 - High Street, Beach Road (Part), City Hall, Clarke Quay"},
+        {"id":"1030","value":"D7 - Golden Mile, Middle Road, Bugis, Rochor, Beach Road"},
+        {"id":"1031","value":"D8 - Little India, Farrer Park, Serangoon Road"},
+        {"id":"1032","value":"D9 - Orchard Road, River Valley, Cairnhill"},
+        {"id":"1033","value":"D10 - Tanglin Road, Farrer, Holland, Bukit Timah, Ardmore"},
+        {"id":"1034","value":"D11 - Thomson, Watten Estate, Novena, Newton"},
+        {"id":"1035","value":"D12 - Serangoon, Toa Payoh, Balestier"},
+        {"id":"1043","value":"D20 - Mei Hwan, Thomson, Ang Mo Kio, Bishan, Braddell"}
+      ]
+    },
+    {
+      "category": {"id":"e","value":"East Region"},
+      "items": [
+        {"id":"1036","value":"D13 - Braddell, Macpherson, Potong Pasir"},
+        {"id":"1037","value":"D14 - Sims, Paya Lebar, Geylang, Eunos"},
+        {"id":"1038","value":"D15 - Tanjong Rhu, Meyer, Marine Parade, Katong, Amber Road, Joo Chiat, East Coast"},
+        {"id":"1039","value":"D16 - Kew Drive, Upper East Coast Road, Eastwood, Bedok, Bayshore"},
+        {"id":"1040","value":"D17 - Flora, Loyang, Changi"}
+      ]
+    },
+    {
+      "category": {"id":"n","value":"North Region"},
+      "items": [
+        {"id":"1046","value":"D23 - Choa Chu Kang, Bukit Batok, Dairy Farm, Hillview, Bukit Panjang"},
+        {"id":"1048","value":"D25 - Woodgrove, Kranji, Woodlands, Admiralty"},
+        {"id":"1049","value":"D26 - Upper Thomson, Springleaf, Mandai"},
+        {"id":"1050","value":"D27 - Sembawang, Yishun"}
+      ]
+    },
+    {
+      "category": {"id":"ne","value":"North East Region"},
+      "items": [
+        {"id":"1041","value":"D18 - Simei, Tampines, Pasir Ris"},
+        {"id":"1042","value":"D19 - Hougang, Punggol, Sengkang, Serangoon Garden"},
+        {"id":"1051","value":"D28 - Seletar, Yio Chu Kang"}
+      ]
+    },
+    {
+      "category": {"id":"w","value":"West Region"},
+      "items": [
+        {"id":"1028","value":"D5 - Clementi, Pasir Panjang, West Coast, Dover, Buona Vista"},
+        {"id":"1044","value":"D21 - Upper Bukit Timah, Ulu Pandan, Clementi Park"},
+        {"id":"1045","value":"D22 - Lakeside, Jurong, Boon Lay, Tuas"},
+        {"id":"1047","value":"D24 - Lim Chu Kang, Tengah"}
+      ]
+    }
+  ]
+  

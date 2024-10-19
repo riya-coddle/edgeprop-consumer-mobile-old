@@ -1,0 +1,3373 @@
+[{
+    "level": "Primary",
+    "id": "Primary",
+    "isCutOff": false,
+    "typelist": [
+      "Govt",
+      "Govt-aided"
+    ],
+    "genderTypelist": [
+      "Boys",
+      "Girls",
+      "Co-ed"
+    ],
+    "schools": [{
+        "name": "Admiralty Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "24296.6251",
+        "y": "47144.7701",
+        "lon": "103.80004012",
+        "lat": "1.4426347907"
+      },
+      {
+        "name": "Ahmad Ibrahim Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "27956.1216",
+        "y": "46154.7007",
+        "lon": "103.832924289",
+        "lat": "1.43368120693"
+      },
+      {
+        "name": "Ai Tong School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "30656.2492",
+        "y": "39668.3978",
+        "lon": "103.857186898",
+        "lat": "1.37502129729"
+      },
+      {
+        "name": "Alexandra Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "27010.1855",
+        "y": "30414.717",
+        "lon": "103.824424681",
+        "lat": "1.29133439189"
+      },
+      {
+        "name": "Anchor Green Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "34002.5395",
+        "y": "41397.9754",
+        "lon": "103.887256081",
+        "lat": "1.39066247785"
+      },
+      {
+        "name": "Anderson Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28284.9571",
+        "y": "39800.8206",
+        "lon": "103.835879126",
+        "lat": "1.37621900029"
+      },
+      {
+        "name": "Anglo-Chinese School (Junior)",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "28963.8002",
+        "y": "32368.471",
+        "lon": "103.841978789",
+        "lat": "1.30900345608"
+      },
+      {
+        "name": "Anglo-Chinese School (Primary)",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "28225.5395",
+        "y": "33442.72",
+        "lon": "103.835345168",
+        "lat": "1.31871859903"
+      },
+      {
+        "name": "Angsana Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41171.5415",
+        "y": "36744.0135",
+        "lon": "103.951673028",
+        "lat": "1.34857143343"
+      },
+      {
+        "name": "Ang Mo Kio Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28702.4805",
+        "y": "39038.1603",
+        "lon": "103.839630859",
+        "lat": "1.36932176612"
+      },
+      {
+        "name": "Balestier Hill Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29223.3673",
+        "y": "34227.6847",
+        "lon": "103.844311198",
+        "lat": "1.32581751856"
+      },
+      {
+        "name": "Beacon Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "21371.2628",
+        "y": "40687.4577",
+        "lon": "103.773754364",
+        "lat": "1.38423667712"
+      },
+      {
+        "name": "Bedok Green Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "39637.7545",
+        "y": "33967.3893",
+        "lon": "103.937889957",
+        "lat": "1.32346130584"
+      },
+      {
+        "name": "Bendemeer Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "31564.9266",
+        "y": "33828.6355",
+        "lon": "103.86535133",
+        "lat": "1.32220847547"
+      },
+      {
+        "name": "Blangah Rise Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "25253.3821",
+        "y": "28733.539",
+        "lon": "103.808639212",
+        "lat": "1.27613030426"
+      },
+      {
+        "name": "Boon Lay Garden Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "14606.3915",
+        "y": "36111.0122",
+        "lon": "103.712969005",
+        "lat": "1.34284670739"
+      },
+      {
+        "name": "Bukit Panjang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20877.4624",
+        "y": "39497.1878",
+        "lon": "103.769317483",
+        "lat": "1.37347219245"
+      },
+      {
+        "name": "Bukit Timah Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20603.347",
+        "y": "35547.2001",
+        "lon": "103.766855336",
+        "lat": "1.33774986666"
+      },
+      {
+        "name": "Bukit View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19095.2088",
+        "y": "36487.6666",
+        "lon": "103.753303566",
+        "lat": "1.34625469633"
+      },
+      {
+        "name": "Canberra Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "26046.8028",
+        "y": "48031.1397",
+        "lon": "103.815767122",
+        "lat": "1.45065097199"
+      },
+      {
+        "name": "Canossa Convent Primary School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "34068.6934",
+        "y": "34492.8504",
+        "lon": "103.887849125",
+        "lat": "1.32821500273"
+      },
+      {
+        "name": "Cantonment Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28741.3393",
+        "y": "28674.4868",
+        "lon": "103.839979783",
+        "lat": "1.27559636749"
+      },
+      {
+        "name": "Casuarina Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41796.6535",
+        "y": "39421.9078",
+        "lon": "103.957291273",
+        "lat": "1.37278901659"
+      },
+      {
+        "name": "Catholic High School (Primary)",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "29286.0618",
+        "y": "37423.9135",
+        "lon": "103.844874677",
+        "lat": "1.35472307427"
+      },
+      {
+        "name": "Cedar Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "32693.3769",
+        "y": "35313.9771",
+        "lon": "103.875491279",
+        "lat": "1.33564122288"
+      },
+      {
+        "name": "Changkat Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41216.8906",
+        "y": "35821.8419",
+        "lon": "103.952080114",
+        "lat": "1.34023163911"
+      },
+      {
+        "name": "CHIJ (Katong) Primary",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "36636.4983",
+        "y": "32094.7537",
+        "lon": "103.91092158",
+        "lat": "1.30652686272"
+      },
+      {
+        "name": "CHIJ (Kellock)",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "24106.009443424227",
+        "y": "31561.017316368605",
+        "lon": "103.7983293",
+        "lat": "1.3017009"
+      },
+      {
+        "name": "CHIJ Our Lady of Good Counsel",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "31415.3923",
+        "y": "37722.9376",
+        "lon": "103.864008123",
+        "lat": "1.35742717363"
+      },
+      {
+        "name": "CHIJ Our Lady of the Nativity",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "35160.3441",
+        "y": "39464.2179",
+        "lon": "103.897659384",
+        "lat": "1.37317401627"
+      },
+      {
+        "name": "CHIJ Our Lady Queen of Peace",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "20696.8594",
+        "y": "38754.7726",
+        "lon": "103.76769482",
+        "lat": "1.36675801467"
+      },
+      {
+        "name": "CHIJ Primary (Toa Payoh)",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "29101.0705",
+        "y": "35818.0768",
+        "lon": "103.843212352",
+        "lat": "1.34020046555"
+      },
+      {
+        "name": "CHIJ St. Nicholas Girls' School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "28130.0564",
+        "y": "39551.8886",
+        "lon": "103.834487229",
+        "lat": "1.37396774937"
+      },
+      {
+        "name": "Chongfu School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "28640.1237",
+        "y": "46683.372",
+        "lon": "103.839070708",
+        "lat": "1.43846231143"
+      },
+      {
+        "name": "Chongzheng Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41121.6978",
+        "y": "36967.7417",
+        "lon": "103.951225249",
+        "lat": "1.35059476927"
+      },
+      {
+        "name": "Chua Chu Kang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "17821.8579",
+        "y": "39969.5633",
+        "lon": "103.741860549",
+        "lat": "1.37774328333"
+      },
+      {
+        "name": "Clementi Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20190.5805",
+        "y": "33085.9277",
+        "lon": "103.763147017",
+        "lat": "1.31549090301"
+      },
+      {
+        "name": "Compassvale Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35177.29",
+        "y": "41816.29",
+        "lon": "103.89781223",
+        "lat": "1.39444529615"
+      },
+      {
+        "name": "Concord Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "17194.7501",
+        "y": "40220.0162",
+        "lon": "103.736225441",
+        "lat": "1.38000806206"
+      },
+      {
+        "name": "Coral Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41067.8214",
+        "y": "38938.047",
+        "lon": "103.950741997",
+        "lat": "1.3684134942"
+      },
+      {
+        "name": "Corporation Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "14008.2264",
+        "y": "37012.3505",
+        "lon": "103.707593724",
+        "lat": "1.35099779861"
+      },
+      {
+        "name": "Da Qiao Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "30857.3197",
+        "y": "39313.4794",
+        "lon": "103.858993627",
+        "lat": "1.3718115236"
+      },
+      {
+        "name": "Damai Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "37781.5973",
+        "y": "35310.3324",
+        "lon": "103.921211847",
+        "lat": "1.33560704438"
+      },
+      {
+        "name": "Dazhong Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "18557.5702",
+        "y": "37916.8722",
+        "lon": "103.748472108",
+        "lat": "1.35917974456"
+      },
+      {
+        "name": "De La Salle School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "17971.1955",
+        "y": "41845.4134",
+        "lon": "103.743201813",
+        "lat": "1.3947078297"
+      },
+      {
+        "name": "East Coast Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "37634.2276",
+        "y": "34590.9617",
+        "lon": "103.91988742",
+        "lat": "1.32910136542"
+      },
+      {
+        "name": "East Spring Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "42284.2733",
+        "y": "37198.8183",
+        "lon": "103.961671811",
+        "lat": "1.35268400606"
+      },
+      {
+        "name": "East View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "39833.3827",
+        "y": "36558.469",
+        "lon": "103.939648785",
+        "lat": "1.34689399621"
+      },
+      {
+        "name": "Edgefield Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "36247.6588",
+        "y": "42463.4661",
+        "lon": "103.907430522",
+        "lat": "1.40029783452"
+      },
+      {
+        "name": "Elias Park Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "40443.0315",
+        "y": "39612.437",
+        "lon": "103.945128118",
+        "lat": "1.37451269465"
+      },
+      {
+        "name": "Endeavour Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "26232.5507",
+        "y": "48405.7004",
+        "lon": "103.817436231",
+        "lat": "1.45403837507"
+      },
+      {
+        "name": "Eunos Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35937.6525",
+        "y": "34091.4995",
+        "lon": "103.904642638",
+        "lat": "1.32458489986"
+      },
+      {
+        "name": "Evergreen Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "23720.7823",
+        "y": "47239.8353",
+        "lon": "103.794865593",
+        "lat": "1.44349444357"
+      },
+      {
+        "name": "Fairfield Methodist School (Primary)",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "22692.1444",
+        "y": "31479.9112",
+        "lon": "103.785625095",
+        "lat": "1.30096719543"
+      },
+      {
+        "name": "Farrer Park Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29956.9436",
+        "y": "32755.5662",
+        "lon": "103.850902685",
+        "lat": "1.31250416142"
+      },
+      {
+        "name": "Fengshan Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "38948.8929",
+        "y": "34674.0053",
+        "lon": "103.93170043",
+        "lat": "1.32985193619"
+      },
+      {
+        "name": "Fernvale Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "32538.5493",
+        "y": "41322.4156",
+        "lon": "103.874100977",
+        "lat": "1.38997940781"
+      },
+      {
+        "name": "First Toa Payoh Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "30487.1981",
+        "y": "35854.1001",
+        "lon": "103.855667535",
+        "lat": "1.34052616505"
+      },
+      {
+        "name": "Frontier Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "13127.7417",
+        "y": "35425.1264",
+        "lon": "103.699682812",
+        "lat": "1.33664312194"
+      },
+      {
+        "name": "Fuchun Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "21863.3661",
+        "y": "45818.4674",
+        "lon": "103.778175193",
+        "lat": "1.43063976758"
+      },
+      {
+        "name": "Fuhua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "17243.9705",
+        "y": "35398.4663",
+        "lon": "103.736669455",
+        "lat": "1.33640376307"
+      },
+      {
+        "name": "Gan Eng Seng Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "25986.6928",
+        "y": "29819.9405",
+        "lon": "103.815228208",
+        "lat": "1.28595539318"
+      },
+      {
+        "name": "Geylang Methodist School (Primary)",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "33636.3772",
+        "y": "33325.4301",
+        "lon": "103.883964313",
+        "lat": "1.31765735368"
+      },
+      {
+        "name": "Gongshang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "40859.7632",
+        "y": "37714.577",
+        "lon": "103.948871926",
+        "lat": "1.35734898181"
+      },
+      {
+        "name": "Greendale Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "36819.1792",
+        "y": "42032.7752",
+        "lon": "103.912565965",
+        "lat": "1.39640265551"
+      },
+      {
+        "name": "Greenridge Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20710.2509",
+        "y": "40868.4949",
+        "lon": "103.76781463",
+        "lat": "1.38587375397"
+      },
+      {
+        "name": "Greenwood Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "24818.041",
+        "y": "46842.3175",
+        "lon": "103.804725587",
+        "lat": "1.43989958355"
+      },
+      {
+        "name": "Guangyang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29776.86",
+        "y": "36464.0809",
+        "lon": "103.84928476",
+        "lat": "1.34604266477"
+      },
+      {
+        "name": "Haig Girls' School",
+        "type": "Govt",
+        "genderType": "Girls",
+        "x": "35491.64773307837",
+        "y": "32658.53533779367",
+        "lon": "103.9006347",
+        "lat": "1.3116258"
+      },
+      {
+        "name": "Holy Innocents' Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "34477.890651174355",
+        "y": "38753.721274247015",
+        "lon": "103.8915269",
+        "lat": "1.3667487"
+      },
+      {
+        "name": "Henry Park Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "22534.5022",
+        "y": "33222.4214",
+        "lon": "103.784208302",
+        "lat": "1.31672581007"
+      },
+      {
+        "name": "Hong Wen School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "30708.0414",
+        "y": "33771.2164",
+        "lon": "103.857651759",
+        "lat": "1.32168928538"
+      },
+      {
+        "name": "Horizon Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "36912.6773",
+        "y": "42381.897",
+        "lon": "103.913406227",
+        "lat": "1.39955995589"
+      },
+      {
+        "name": "Hougang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "33284.9031",
+        "y": "39929.5262",
+        "lon": "103.880807295",
+        "lat": "1.37738249326"
+      },
+      {
+        "name": "Huamin Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29220.143",
+        "y": "45393.8395",
+        "lon": "103.844282686",
+        "lat": "1.42680022734"
+      },
+      {
+        "name": "Innova Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "23246.8972",
+        "y": "45633.4724",
+        "lon": "103.79060754",
+        "lat": "1.42896700703"
+      },
+      {
+        "name": "Jiemin Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "27678.3141",
+        "y": "45491.8036",
+        "lon": "103.830427933",
+        "lat": "1.42768620361"
+      },
+      {
+        "name": "Jing Shan Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "30064.9178",
+        "y": "39332.1351",
+        "lon": "103.851873334",
+        "lat": "1.37198030525"
+      },
+      {
+        "name": "Junyuan Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "39833.1636",
+        "y": "36668.773",
+        "lon": "103.939646859",
+        "lat": "1.34789154473"
+      },
+      {
+        "name": "Jurong Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "16853.0772",
+        "y": "36747.104",
+        "lon": "103.73315656",
+        "lat": "1.34860020317"
+      },
+      {
+        "name": "Jurong West Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "13023.2359",
+        "y": "35764.5549",
+        "lon": "103.698743602",
+        "lat": "1.33971273274"
+      },
+      {
+        "name": "Juying Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "11801.9419",
+        "y": "35688.3183",
+        "lon": "103.687769625",
+        "lat": "1.33902264689"
+      },
+      {
+        "name": "Keming Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19424.7216",
+        "y": "36376.0146",
+        "lon": "103.75626447",
+        "lat": "1.34524505221"
+      },
+      {
+        "name": "Kheng Cheng School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "29539.0956",
+        "y": "35500.8163",
+        "lon": "103.847148252",
+        "lat": "1.33733125508"
+      },
+      {
+        "name": "Kong Hwa School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "34108.8315",
+        "y": "32601.9336",
+        "lon": "103.888209413",
+        "lat": "1.3111142193"
+      },
+      {
+        "name": "Kranji Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "18434.1544",
+        "y": "41718.0171",
+        "lon": "103.747361905",
+        "lat": "1.39355586121"
+      },
+      {
+        "name": "Kuo Chuan Presbyterian Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "28769.6365",
+        "y": "38984.9133",
+        "lon": "103.840234301",
+        "lat": "1.3688402176"
+      },
+      {
+        "name": "Lakeside Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "15171.8889",
+        "y": "35616.6032",
+        "lon": "103.718050539",
+        "lat": "1.33837570345"
+      },
+      {
+        "name": "Lianhua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19196.1552",
+        "y": "37361.247",
+        "lon": "103.754210375",
+        "lat": "1.35415506898"
+      },
+      {
+        "name": "Loyang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41632.4784",
+        "y": "39242.8019",
+        "lon": "103.955815964",
+        "lat": "1.37116932705"
+      },
+      {
+        "name": "MacPherson Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "33376.0018",
+        "y": "34070.0528",
+        "lon": "103.881624837",
+        "lat": "1.3243915025"
+      },
+      {
+        "name": "Maha Bodhi School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "35583.2559",
+        "y": "34521.9977",
+        "lon": "103.901458302",
+        "lat": "1.3284782606"
+      },
+      {
+        "name": "Maris Stella High School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "32951.8678",
+        "y": "35949.5035",
+        "lon": "103.877814072",
+        "lat": "1.34138865523"
+      },
+      {
+        "name": "Marsiling Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "22709.5354",
+        "y": "46046.2438",
+        "lon": "103.785778769",
+        "lat": "1.43269986544"
+      },
+      {
+        "name": "Marymount Convent School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "28336.27403111562",
+        "y": "35722.67458842876",
+        "lon": "103.8363402",
+        "lat": "1.3393377"
+      },
+      {
+        "name": "Mayflower Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29105.5559",
+        "y": "39818.2753",
+        "lon": "103.843252803",
+        "lat": "1.37637683497"
+      },
+      {
+        "name": "Mee Toh School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "36376.657",
+        "y": "41835.4725",
+        "lon": "103.908589495",
+        "lat": "1.39461845377"
+      },
+      {
+        "name": "Meridian Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "39331.8268",
+        "y": "39773.6209",
+        "lon": "103.935143222",
+        "lat": "1.37597083124"
+      },
+      {
+        "name": "Methodist Girls' School (Primary)",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "22512.3285",
+        "y": "34983.6468",
+        "lon": "103.784008745",
+        "lat": "1.33265369963"
+      },
+      {
+        "name": "Montfort Junior School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "34273.5368",
+        "y": "39548.633",
+        "lon": "103.889690808",
+        "lat": "1.3739376383"
+      },
+      {
+        "name": "Nan Chiau Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "34439.3197",
+        "y": "41569.2687",
+        "lon": "103.891180928",
+        "lat": "1.3922114987"
+      },
+      {
+        "name": "Nan Hua Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "19996.6085",
+        "y": "33566.4626",
+        "lon": "103.761403957",
+        "lat": "1.31983663751"
+      },
+      {
+        "name": "Nanyang Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "25195.9349",
+        "y": "33689.9244",
+        "lon": "103.808122583",
+        "lat": "1.32095410039"
+      },
+      {
+        "name": "Ngee Ann Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "37397.047",
+        "y": "31985.6728",
+        "lon": "103.91775543",
+        "lat": "1.30554015285"
+      },
+      {
+        "name": "Naval Base Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28609.3448",
+        "y": "44233.5084",
+        "lon": "103.838794078",
+        "lat": "1.41630663164"
+      },
+      {
+        "name": "New Town Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "24303.3274",
+        "y": "31333.3311",
+        "lon": "103.800102318",
+        "lat": "1.2996418105"
+      },
+      {
+        "name": "Northland Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28831.7853",
+        "y": "44786.0977",
+        "lon": "103.840792917",
+        "lat": "1.42130404418"
+      },
+      {
+        "name": "Northoaks Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "25872.0768",
+        "y": "48689.8196",
+        "lon": "103.814196982",
+        "lat": "1.45660782032"
+      },
+      {
+        "name": "North Spring Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35781.3282",
+        "y": "40998.9201",
+        "lon": "103.903239773",
+        "lat": "1.38705314563"
+      },
+      {
+        "name": "North View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29655.0564",
+        "y": "45473.7926",
+        "lon": "103.848190788",
+        "lat": "1.42752327219"
+      },
+      {
+        "name": "North Vista Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "34959.4156",
+        "y": "40538.9326",
+        "lon": "103.895854153",
+        "lat": "1.38289339391"
+      },
+      {
+        "name": "Oasis Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "",
+        "y": "",
+        "lon": "",
+        "lat": ""
+      },
+      {
+        "name": "Opera Estate Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "38064.4266",
+        "y": "33581.1386",
+        "lon": "103.923752661",
+        "lat": "1.31996875461"
+      },
+      {
+        "name": "Palm View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "34458.6783",
+        "y": "40632.1648",
+        "lon": "103.891354674",
+        "lat": "1.38373666706"
+      },
+      {
+        "name": "Park View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "39837.6761",
+        "y": "39972.6151",
+        "lon": "103.939688718",
+        "lat": "1.37777026093"
+      },
+      {
+        "name": "Pasir Ris Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "42422.9406",
+        "y": "39368.8209",
+        "lon": "103.962918871",
+        "lat": "1.37230861864"
+      },
+      {
+        "name": "Paya Lebar Methodist Girls' School (Primary)",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "33749.1563",
+        "y": "36884.2322",
+        "lon": "103.884978362",
+        "lat": "1.34984186442"
+      },
+      {
+        "name": "Pei Chun Public School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "30610.3323301729",
+        "y": "35048.268493117896",
+        "lon": "103.8567739",
+        "lat": "1.3332385"
+      },
+      {
+        "name": "Pei Hwa Presbyterian Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "21633.099",
+        "y": "35580.9229",
+        "lon": "103.776108248",
+        "lat": "1.33805507825"
+      },
+      {
+        "name": "Pei Tong Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20667.7108",
+        "y": "33223.7102",
+        "lon": "103.767434238",
+        "lat": "1.3167370761"
+      },
+      {
+        "name": "Peiying Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "27664.0163",
+        "y": "44355.3129",
+        "lon": "103.830299468",
+        "lat": "1.41740819207"
+      },
+      {
+        "name": "Pioneer Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "12641.4413",
+        "y": "36732.6161",
+        "lon": "103.695312469",
+        "lat": "1.34846731676"
+      },
+      {
+        "name": "Poi Ching School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "39337.5168",
+        "y": "37745.5279",
+        "lon": "103.935193578",
+        "lat": "1.35762950895"
+      },
+      {
+        "name": "Princess Elizabeth Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "17728.1547",
+        "y": "36813.7804",
+        "lon": "103.741019645",
+        "lat": "1.3492035129"
+      },
+      {
+        "name": "Punggol Cove Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "",
+        "y": "",
+        "lon": "",
+        "lat": ""
+      },
+      {
+        "name": "Punggol Green Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35287.341",
+        "y": "42637.5237",
+        "lon": "103.898801331",
+        "lat": "1.40187220632"
+      },
+      {
+        "name": "Punggol Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "34836.9228",
+        "y": "40020.0264",
+        "lon": "103.894753343",
+        "lat": "1.37820062361"
+      },
+      {
+        "name": "Punggol View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35994.56",
+        "y": "42999.5251",
+        "lon": "103.905156372",
+        "lat": "1.40514582671"
+      },
+      {
+        "name": "Qifa Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19477.8903",
+        "y": "32838.3244",
+        "lon": "103.756743209",
+        "lat": "1.31325147866"
+      },
+      {
+        "name": "Qihua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "22994.5551",
+        "y": "47078.5775",
+        "lon": "103.788339757",
+        "lat": "1.44203596649"
+      },
+      {
+        "name": "Queenstown Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "25171.3473",
+        "y": "30929.3508",
+        "lon": "103.807901902",
+        "lat": "1.2959884463"
+      },
+      {
+        "name": "Radin Mas Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "26983.8686",
+        "y": "28603.9264",
+        "lon": "103.82418827",
+        "lat": "1.27495823623"
+      },
+      {
+        "name": "Raffles Girls' Primary School",
+        "type": "Govt",
+        "genderType": "Girls",
+        "x": "22853.1822",
+        "y": "32869.0149",
+        "lon": "103.787071862",
+        "lat": "1.31352978264"
+      },
+      {
+        "name": "Red Swastika School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "39241.7796",
+        "y": "35048.9818",
+        "lon": "103.934332314",
+        "lat": "1.33324297856"
+      },
+      {
+        "name": "Riverside Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "24496.0362",
+        "y": "47632.6852",
+        "lon": "103.801831963",
+        "lat": "1.44704734277"
+      },
+      {
+        "name": "River Valley Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28300.5257",
+        "y": "30729.7524",
+        "lon": "103.836018932",
+        "lat": "1.2941834756"
+      },
+      {
+        "name": "Rivervale Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35945.8458",
+        "y": "41719.947",
+        "lon": "103.904718284",
+        "lat": "1.39357380478"
+      },
+      {
+        "name": "Rosyth School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "32613.7523",
+        "y": "39395.9437",
+        "lon": "103.874776433",
+        "lat": "1.37255707838"
+      },
+      {
+        "name": "Rulang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "15291.4846",
+        "y": "36548.7946",
+        "lon": "103.719124783",
+        "lat": "1.3468061452"
+      },
+      {
+        "name": "Sembawang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "26631.5285",
+        "y": "47411.1056",
+        "lon": "103.821021505",
+        "lat": "1.44504364383"
+      },
+      {
+        "name": "Sengkang Green Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "32656.2685",
+        "y": "41638.6447",
+        "lon": "103.875158826",
+        "lat": "1.39283925096"
+      },
+      {
+        "name": "Seng Kang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35368.2346",
+        "y": "41241.8759",
+        "lon": "103.899527873",
+        "lat": "1.38925045671"
+      },
+      {
+        "name": "Shuqun Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "15558.4639",
+        "y": "36642.4359",
+        "lon": "103.721523714",
+        "lat": "1.34765311414"
+      },
+      {
+        "name": "Si Ling Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "22709.5354",
+        "y": "46046.2438",
+        "lon": "103.785778769",
+        "lat": "1.43269986544"
+      },
+      {
+        "name": "Singapore Chinese Girls' Primary School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "27423.5066",
+        "y": "33696.6162",
+        "lon": "103.828138483",
+        "lat": "1.32101474189"
+      },
+      {
+        "name": "South View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19450.3327",
+        "y": "40406.3553",
+        "lon": "103.756493446",
+        "lat": "1.38169399039"
+      },
+      {
+        "name": "Springdale Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "34297.5646",
+        "y": "41840.7098",
+        "lon": "103.889907206",
+        "lat": "1.39466634447"
+      },
+      {
+        "name": "Stamford Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "30636.9272",
+        "y": "31787.2633",
+        "lon": "103.857012591",
+        "lat": "1.30374712142"
+      },
+      {
+        "name": "St. Andrew's Junior School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "31540.1637",
+        "y": "34843.7851",
+        "lon": "103.865128939",
+        "lat": "1.33138913062"
+      },
+      {
+        "name": "St. Anthony's Canossian Primary School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "40009.9558",
+        "y": "35212.9303",
+        "lon": "103.941234868",
+        "lat": "1.33472537336"
+      },
+      {
+        "name": "St. Anthony's Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "18065.61",
+        "y": "36173.2041",
+        "lon": "103.744052099",
+        "lat": "1.34341048944"
+      },
+      {
+        "name": "St. Gabriel's Primary School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "31228.8735",
+        "y": "36828.4513",
+        "lon": "103.862332033",
+        "lat": "1.34933777972"
+      },
+      {
+        "name": "St. Hilda's Primary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "39754.948",
+        "y": "34029.515",
+        "lon": "103.938943026",
+        "lat": "1.32402310284"
+      },
+      {
+        "name": "St. Joseph's Institution Junior",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "30217.7534",
+        "y": "37146.3793",
+        "lon": "103.853246509",
+        "lat": "1.35221309921"
+      },
+      {
+        "name": "St. Margaret's Primary School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "x": "29445.1807",
+        "y": "31782.291",
+        "lon": "103.846304197",
+        "lat": "1.30370223213"
+      },
+      {
+        "name": "St. Stephen's School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "x": "37341.6528",
+        "y": "33450.7695",
+        "lon": "103.917258129",
+        "lat": "1.3187899729"
+      },
+      {
+        "name": "Tampines North Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "40866.965",
+        "y": "38084.201",
+        "lon": "103.948936797",
+        "lat": "1.3606917196"
+      },
+      {
+        "name": "Tampines Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "40318.1326",
+        "y": "36877.4679",
+        "lon": "103.944004685",
+        "lat": "1.34977870831"
+      },
+      {
+        "name": "Tanjong Katong Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "35435.3038",
+        "y": "31957.0435",
+        "lon": "103.900128255",
+        "lat": "1.30528177314"
+      },
+      {
+        "name": "Tao Nan School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "x": "38434.3797",
+        "y": "33810.8158",
+        "lon": "103.927076956",
+        "lat": "1.32204574736"
+      },
+      {
+        "name": "Teck Ghee Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "29971.3112",
+        "y": "38582.4725",
+        "lon": "103.851032163",
+        "lat": "1.36520063108"
+      },
+      {
+        "name": "Teck Whye Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19100.4652",
+        "y": "40623.3411",
+        "lon": "103.753349562",
+        "lat": "1.38365622592"
+      },
+      {
+        "name": "Telok Kurau Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "36683.9973",
+        "y": "34791.3036",
+        "lon": "103.91134914",
+        "lat": "1.33091347119"
+      },
+      {
+        "name": "Temasek Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "40494.5537",
+        "y": "33337.0256",
+        "lon": "103.945588486",
+        "lat": "1.31776019175"
+      },
+      {
+        "name": "Townsville Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "30288.3804",
+        "y": "38042.2226",
+        "lon": "103.853881206",
+        "lat": "1.36031478115"
+      },
+      {
+        "name": "Unity Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "18393.1845",
+        "y": "42742.7761",
+        "lon": "103.74699342",
+        "lat": "1.40282338927"
+      },
+      {
+        "name": "Waterway Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "",
+        "y": "",
+        "lon": "",
+        "lat": ""
+      },
+      {
+        "name": "Wellington Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "26774.5063",
+        "y": "48167.7045",
+        "lon": "103.822306269",
+        "lat": "1.45188605595"
+      },
+      {
+        "name": "West Grove Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "13047.8171",
+        "y": "36317.362",
+        "lon": "103.698964205",
+        "lat": "1.34471212223"
+      },
+      {
+        "name": "West Spring Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20516.9168",
+        "y": "41265.3943",
+        "lon": "103.766077275",
+        "lat": "1.38946311837"
+      },
+      {
+        "name": "Westwood Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "13221.7226",
+        "y": "36587.4334",
+        "lon": "103.700526716",
+        "lat": "1.34715463146"
+      },
+      {
+        "name": "West View Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "19867.3322",
+        "y": "40625.483",
+        "lon": "103.760240435",
+        "lat": "1.38367582019"
+      },
+      {
+        "name": "White Sands Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "42203.6702",
+        "y": "38617.9145",
+        "lon": "103.960948216",
+        "lat": "1.36551781283"
+      },
+      {
+        "name": "Woodgrove Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "23222.6545",
+        "y": "46085.8411",
+        "lon": "103.79038962",
+        "lat": "1.43305806061"
+      },
+      {
+        "name": "Woodlands Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "23354.3243",
+        "y": "46471.9943",
+        "lon": "103.791572734",
+        "lat": "1.43655031138"
+      },
+      {
+        "name": "Woodlands Ring Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "24051.8978",
+        "y": "46275.0919",
+        "lon": "103.797841127",
+        "lat": "1.43476970437"
+      },
+      {
+        "name": "Xinghua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "34359.7423",
+        "y": "37776.2619",
+        "lon": "103.890465048",
+        "lat": "1.35790893602"
+      },
+      {
+        "name": "Xingnan Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "11822.067",
+        "y": "36078.0729",
+        "lon": "103.687950252",
+        "lat": "1.34254744853"
+      },
+      {
+        "name": "Xinmin Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "33537.6595",
+        "y": "39267.6613",
+        "lon": "103.883078372",
+        "lat": "1.37139677936"
+      },
+      {
+        "name": "Xishan Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28510.8339",
+        "y": "46154.669",
+        "lon": "103.837908905",
+        "lat": "1.43368091568"
+      },
+      {
+        "name": "Yangzheng Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "31900.0002",
+        "y": "36788.0167",
+        "lon": "103.868362522",
+        "lat": "1.34897202379"
+      },
+      {
+        "name": "Yew Tee Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "18860.6969",
+        "y": "42094.5686",
+        "lon": "103.751194605",
+        "lat": "1.39696139187"
+      },
+      {
+        "name": "Yio Chu Kang Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "33814.7889",
+        "y": "39978.2142",
+        "lon": "103.885568715",
+        "lat": "1.3778227097"
+      },
+      {
+        "name": "Yishun Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "28085.5266",
+        "y": "46122.0615",
+        "lon": "103.834087116",
+        "lat": "1.43338602974"
+      },
+      {
+        "name": "Yu Neng Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "38986.0038",
+        "y": "35122.0427",
+        "lon": "103.932034053",
+        "lat": "1.33390380825"
+      },
+      {
+        "name": "Yuhua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "17716.839",
+        "y": "36097.5299",
+        "lon": "103.74091821",
+        "lat": "1.34272600249"
+      },
+      {
+        "name": "Yumin Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "41065.033",
+        "y": "37063.3681",
+        "lon": "103.950716123",
+        "lat": "1.35145960339"
+      },
+      {
+        "name": "Zhangde Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "27202.0828",
+        "y": "29658.8078",
+        "lon": "103.826148978",
+        "lat": "1.28449822003"
+      },
+      {
+        "name": "Zhenghua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "20877.0395",
+        "y": "40169.1169",
+        "lon": "103.769313521",
+        "lat": "1.379548875"
+      },
+      {
+        "name": "Zhonghua Primary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "x": "32055.7766",
+        "y": "38029.9161",
+        "lon": "103.869762438",
+        "lat": "1.36020329691"
+      }
+    ]
+  },
+  {
+    "level": "Secondary",
+    "id": "Secondary",
+    "isCutOff": true,
+    "typelist": [
+      "Specialised",
+      "Independent",
+      "Govt",
+      "Govt-aided"
+    ],
+    "genderTypelist": [
+      "Boys",
+      "Girls",
+      "Co-ed"
+    ],
+    "schools": [{
+        "name": "Nanyang Girls' High School IP",
+        "type": "Independent",
+        "genderType": "Girls",
+        "cutoff": "264",
+        "x": "24561.4161",
+        "y": "34754.6755",
+        "lon": "103.80242098",
+        "lat": "1.33058326638"
+      },
+      {
+        "name": "Methodist Girls' School (Secondary) IB",
+        "type": "Independent",
+        "genderType": "Girls",
+        "cutoff": "261",
+        "x": "22512.3285",
+        "y": "34983.6468",
+        "lon": "103.784008745",
+        "lat": "1.33265369963"
+      },
+      {
+        "name": "Raffles Institution IP",
+        "type": "Independent",
+        "genderType": "Boys",
+        "cutoff": "261",
+        "x": "29409.3967",
+        "y": "36432.9433",
+        "lon": "103.845982875",
+        "lat": "1.34576108687"
+      },
+      {
+        "name": "Hwa Chong Institution IP",
+        "type": "Independent",
+        "genderType": "Boys",
+        "cutoff": "260",
+        "x": "24988.5719",
+        "y": "34162.0519",
+        "lon": "103.806259272",
+        "lat": "1.32522383433"
+      },
+      {
+        "name": "Raffles Girls' School (Secondary) IP",
+        "type": "Independent",
+        "genderType": "Girls",
+        "cutoff": "260",
+        "x": "27514.8854",
+        "y": "32666.09",
+        "lon": "103.828959586",
+        "lat": "1.31169502849"
+      },
+      {
+        "name": "Dunman High School IP",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "258",
+        "x": "33555.8268",
+        "y": "31351.889",
+        "lon": "103.883240174",
+        "lat": "1.29980936536"
+      },
+      {
+        "name": "National Junior College IP",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "258",
+        "x": "24788.1946",
+        "y": "34737.7174",
+        "lon": "103.804458713",
+        "lat": "1.3304299282"
+      },
+      {
+        "name": "CHIJ St. Nicholas Girls' School IP",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "258",
+        "x": "28130.0564",
+        "y": "39551.8886",
+        "lon": "103.834487229",
+        "lat": "1.37396774937"
+      },
+      {
+        "name": "Anglo-Chinese School (Independent) IB",
+        "type": "Independent",
+        "genderType": "Boys",
+        "cutoff": "256",
+        "x": "22085.0056",
+        "y": "31610.5758",
+        "lon": "103.780169655",
+        "lat": "1.30214876982"
+      },
+      {
+        "name": "Cedar Girls' Secondary School IP",
+        "type": "Govt",
+        "genderType": "Girls",
+        "cutoff": "254",
+        "x": "32548.6952",
+        "y": "35134.7421",
+        "lon": "103.874191204",
+        "lat": "1.33402030759"
+      },
+      {
+        "name": "Victoria School IP",
+        "type": "Govt",
+        "genderType": "Boys",
+        "cutoff": "254",
+        "x": "38493.9275",
+        "y": "32297.1652",
+        "lon": "103.92761151",
+        "lat": "1.30835682403"
+      },
+      {
+        "name": "River Valley High School IP",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "253",
+        "x": "14167.1561",
+        "y": "36247.1858",
+        "lon": "103.709022156",
+        "lat": "1.34407801138"
+      },
+      {
+        "name": "Temasek Junior College IP",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "253",
+        "x": "39382.7016",
+        "y": "33414.5698",
+        "lon": "103.93559797",
+        "lat": "1.31846190587"
+      },
+      {
+        "name": "Catholic High School IP",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "253",
+        "x": "29286.0618",
+        "y": "37423.9135",
+        "lon": "103.844874677",
+        "lat": "1.35472307427"
+      },
+      {
+        "name": "St. Nicholas Girls' School O-levels",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "253",
+        "x": "",
+        "y": "",
+        "lon": "",
+        "lat": ""
+      },
+      {
+        "name": "Methodist Girls' School (Secondary) O-levels",
+        "type": "Independent",
+        "genderType": "Girls",
+        "cutoff": "253",
+        "x": "22512.3285",
+        "y": "34983.6468",
+        "lon": "103.784008745",
+        "lat": "1.33265369963"
+      },
+      {
+        "name": "Singapore Chinese Girls' School IP",
+        "type": "Independent",
+        "genderType": "Girls",
+        "cutoff": "253",
+        "x": "27423.5066",
+        "y": "33696.6162",
+        "lon": "103.828138483",
+        "lat": "1.32101474189"
+      },
+      {
+        "name": "St. Joseph’s Institution IB",
+        "type": "Independent",
+        "genderType": "Boys",
+        "cutoff": "253",
+        "x": "30217.7534",
+        "y": "37146.3793",
+        "lon": "103.853246509",
+        "lat": "1.35221309921"
+      },
+      {
+        "name": "Singapore Chinese Girls' School O-levels",
+        "type": "Independent",
+        "genderType": "Girls",
+        "cutoff": "252",
+        "x": "27423.5066",
+        "y": "33696.6162",
+        "lon": "103.828138483",
+        "lat": "1.32101474189"
+      },
+      {
+        "name": "Catholic High School O-levels",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "251",
+        "x": "29286.0618",
+        "y": "37423.9135",
+        "lon": "103.844874677",
+        "lat": "1.35472307427"
+      },
+      {
+        "name": "Cedar Girls' Secondary School – O-levels",
+        "type": "Govt",
+        "genderType": "Girls",
+        "cutoff": "250",
+        "x": "32548.6952",
+        "y": "35134.7421",
+        "lon": "103.874191204",
+        "lat": "1.33402030759"
+      },
+      {
+        "name": "Anglo-Chinese School (Independent) O-levels",
+        "type": "Independent",
+        "genderType": "Boys",
+        "cutoff": "250",
+        "x": "22085.0056",
+        "y": "31610.5758",
+        "lon": "103.780169655",
+        "lat": "1.30214876982"
+      },
+      {
+        "name": "Victoria School – O-levels",
+        "type": "Govt",
+        "genderType": "Boys",
+        "cutoff": "248",
+        "x": "38493.9275",
+        "y": "32297.1652",
+        "lon": "103.92761151",
+        "lat": "1.30835682403"
+      },
+      {
+        "name": "Anderson Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "247",
+        "x": "30029.3897",
+        "y": "39593.0598",
+        "lon": "103.851554107",
+        "lat": "1.37434001733"
+      },
+      {
+        "name": "Bukit Panjang Govt. High School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "247",
+        "x": "17431.6287",
+        "y": "40465.2079",
+        "lon": "103.73835388",
+        "lat": "1.38222557144"
+      },
+      {
+        "name": "CHIJ Secondary (Toa Payoh)",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "247",
+        "x": "29046.2188",
+        "y": "34962.411",
+        "lon": "103.842719447",
+        "lat": "1.33246212955"
+      },
+      {
+        "name": "Paya Lebar Methodist Girls' School (Secondary)",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "247",
+        "x": "22512.3285",
+        "y": "34983.6468",
+        "lon": "103.784008745",
+        "lat": "1.33265369963"
+      },
+      {
+        "name": "St. Joseph’s Institution O-levels",
+        "type": "Independent",
+        "genderType": "Boys",
+        "cutoff": "246",
+        "x": "30217.7534",
+        "y": "37146.3793",
+        "lon": "103.853246509",
+        "lat": "1.35221309921"
+      },
+      {
+        "name": "Nan Hua High School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "245",
+        "x": "20843.6584",
+        "y": "32273.2184",
+        "lon": "103.769015436",
+        "lat": "1.30814121067"
+      },
+      {
+        "name": "St. Andrew’s Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "245",
+        "x": "31631.1103",
+        "y": "34760.3553",
+        "lon": "103.865946136",
+        "lat": "1.33063461044"
+      },
+      {
+        "name": "St. Margaret’s Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "244",
+        "x": "25360.6021",
+        "y": "33559.5041",
+        "lon": "103.809602216",
+        "lat": "1.31977464006"
+      },
+      {
+        "name": "Crescent Girls' School",
+        "type": "Govt",
+        "genderType": "Girls",
+        "cutoff": "243",
+        "x": "26244.4776",
+        "y": "30634.2205",
+        "lon": "103.817544462",
+        "lat": "1.29331947069"
+      },
+      {
+        "name": "Fairfield Methodist School (Secondary)",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "243",
+        "x": "22552.2597",
+        "y": "31585.3679",
+        "lon": "103.784368149",
+        "lat": "1.30192088412"
+      },
+      {
+        "name": "Nan Chiau High School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "243",
+        "x": "34308.3992",
+        "y": "41191.5775",
+        "lon": "103.890004424",
+        "lat": "1.3887958254"
+      },
+      {
+        "name": "Swiss Cottage Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "241",
+        "x": "18771.7136",
+        "y": "38529.1941",
+        "lon": "103.750396137",
+        "lat": "1.36471742693"
+      },
+      {
+        "name": "Anglican High School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "240",
+        "x": "39990.7508",
+        "y": "34759.4802",
+        "lon": "103.941062122",
+        "lat": "1.33062454625"
+      },
+      {
+        "name": "Commonwealth Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "239",
+        "x": "18255.0832",
+        "y": "33488.1695",
+        "lon": "103.745755486",
+        "lat": "1.31912807825"
+      },
+      {
+        "name": "Anglo-Chinese School (Barker Road)",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "239",
+        "x": "28273.1184",
+        "y": "33542.0044",
+        "lon": "103.83577269",
+        "lat": "1.31961649168"
+      },
+      {
+        "name": "Chung Cheng High School (Main)",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "239",
+        "x": "34390.0939",
+        "y": "31968.0042",
+        "lon": "103.890736561",
+        "lat": "1.30538113117"
+      },
+      {
+        "name": "Ngee Ann Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "238",
+        "x": "41767.7146",
+        "y": "37382.664",
+        "lon": "103.957030296",
+        "lat": "1.35434687979"
+      },
+      {
+        "name": "Yishun Town Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "237",
+        "x": "28531.4577",
+        "y": "46004.3591",
+        "lon": "103.838094226",
+        "lat": "1.43232156699"
+      },
+      {
+        "name": "Chung Cheng High School (Yishun)",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "237",
+        "x": "28452.958",
+        "y": "44556.1329",
+        "lon": "103.83738881",
+        "lat": "1.4192243341"
+      },
+      {
+        "name": "Tanjong Katong Girls' School",
+        "type": "Govt",
+        "genderType": "Girls",
+        "cutoff": "236",
+        "x": "38158.88460614012",
+        "y": "33841.772360743525",
+        "lon": "103.9246015",
+        "lat": "1.3223258"
+      },
+      {
+        "name": "Xinmin Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "236",
+        "x": "33501.3556",
+        "y": "39351.86",
+        "lon": "103.882752171",
+        "lat": "1.37215824883"
+      },
+      {
+        "name": "CHIJ St. Theresa’s Convent",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "235",
+        "x": "26789.3782",
+        "y": "28647.4427",
+        "lon": "103.822440702",
+        "lat": "1.27535177556"
+      },
+      {
+        "name": "Maris Stella High School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "235",
+        "x": "32951.8678",
+        "y": "35949.5035",
+        "lon": "103.877814072",
+        "lat": "1.34138865523"
+      },
+      {
+        "name": "Fuhua Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "234",
+        "x": "16141.1655",
+        "y": "36556.9112",
+        "lon": "103.726759674",
+        "lat": "1.34687989669"
+      },
+      {
+        "name": "Zhonghua Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "234",
+        "x": "32059.9791",
+        "y": "36801.8782",
+        "lon": "103.869800034",
+        "lat": "1.34909736099"
+      },
+      {
+        "name": "Clementi Town Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "233",
+        "x": "20065.2211",
+        "y": "33091.2639",
+        "lon": "103.762020599",
+        "lat": "1.31553912955"
+      },
+      {
+        "name": "Tanjong Katong Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "233",
+        "x": "35112.2117",
+        "y": "32340.2786",
+        "lon": "103.89722521",
+        "lat": "1.30874769004"
+      },
+      {
+        "name": "Presbyterian High School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "233",
+        "x": "29069.7427",
+        "y": "40524.6953",
+        "lon": "103.842931021",
+        "lat": "1.38276544588"
+      },
+      {
+        "name": "Kranji Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "232",
+        "x": "19210.158097053572",
+        "y": "40404.70561311269",
+        "lon": "103.7543353",
+        "lat": "1.381679"
+      },
+      {
+        "name": "Riverside Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "232",
+        "x": "22991.6279",
+        "y": "46972.6448",
+        "lon": "103.788313472",
+        "lat": "1.44107794934"
+      },
+      {
+        "name": "Kuo Chuan Presbyterian Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "232",
+        "x": "30400.8432",
+        "y": "36913.792",
+        "lon": "103.854891669",
+        "lat": "1.35010964841"
+      },
+      {
+        "name": "St. Patrick’s School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "232",
+        "x": "37383.991",
+        "y": "32244.7789",
+        "lon": "103.917638194",
+        "lat": "1.3078834185"
+      },
+      {
+        "name": "Dunman Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "231",
+        "x": "41676.7589",
+        "y": "38079.9138",
+        "lon": "103.95621332",
+        "lat": "1.36065258586"
+      },
+      {
+        "name": "CHIJ St. Joseph’s Convent",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "231",
+        "x": "35694.8937",
+        "y": "41518.5245",
+        "lon": "103.902463229",
+        "lat": "1.391752281"
+      },
+      {
+        "name": "Holy Innocents’ High School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "229",
+        "x": "34978.6415",
+        "y": "39247.6021",
+        "lon": "103.896026606",
+        "lat": "1.3712150652"
+      },
+      {
+        "name": "St. Hilda’s Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "229",
+        "x": "39500.156",
+        "y": "36943.4518",
+        "lon": "103.936654689",
+        "lat": "1.35037576767"
+      },
+      {
+        "name": "Ang Mo Kio Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "227",
+        "x": "29032.9525",
+        "y": "38821.1291",
+        "lon": "103.842600374",
+        "lat": "1.36735900376"
+      },
+      {
+        "name": "Bowen Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "225",
+        "x": "32912.2974",
+        "y": "39196.2501",
+        "lon": "103.87745904",
+        "lat": "1.37075107305"
+      },
+      {
+        "name": "Evergreen Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "225",
+        "x": "23639.7815",
+        "y": "47018.3405",
+        "lon": "103.794137756",
+        "lat": "1.44149131292"
+      },
+      {
+        "name": "Gan Eng Seng School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "225",
+        "x": "26933.2813",
+        "y": "30164.4591",
+        "lon": "103.823733673",
+        "lat": "1.28907114485"
+      },
+      {
+        "name": "Jurong Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "225",
+        "x": "15874.9003",
+        "y": "34661.6369",
+        "lon": "103.724367877",
+        "lat": "1.32973963305"
+      },
+      {
+        "name": "Edgefield Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "224",
+        "x": "35659.0312",
+        "y": "42450.3406",
+        "lon": "103.902141222",
+        "lat": "1.40017929453"
+      },
+      {
+        "name": "St. Gabriel’s Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "224",
+        "x": "32728.6507",
+        "y": "36501.733",
+        "lon": "103.875808419",
+        "lat": "1.34638285716"
+      },
+      {
+        "name": "Geylang Methodist School (Secondary)",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "223",
+        "x": "33491.9694",
+        "y": "33324.3444",
+        "lon": "103.882666735",
+        "lat": "1.3176475612"
+      },
+      {
+        "name": "Bukit Batok Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "222",
+        "x": "17711.9102",
+        "y": "36734.979",
+        "lon": "103.740873705",
+        "lat": "1.34849085642"
+      },
+      {
+        "name": "Hua Yi Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "222",
+        "x": "15581.0664",
+        "y": "37162.4898",
+        "lon": "103.721726596",
+        "lat": "1.35235629705"
+      },
+      {
+        "name": "CHIJ Katong Convent",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "222",
+        "x": "37135.66228124205",
+        "y": "32094.231862913657",
+        "lon": "103.9154068",
+        "lat": "1.306522"
+      },
+      {
+        "name": "Pasir Ris Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "221",
+        "x": "40831.148",
+        "y": "37414.9816",
+        "lon": "103.948614672",
+        "lat": "1.35463956556"
+      },
+      {
+        "name": "West Spring Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "221",
+        "x": "19856.9985",
+        "y": "41081.9943",
+        "lon": "103.760147452",
+        "lat": "1.38780433853"
+      },
+      {
+        "name": "Hai Sing Catholic School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "221",
+        "x": "41513.9724",
+        "y": "39626.3674",
+        "lon": "103.954751281",
+        "lat": "1.3746382031"
+      },
+      {
+        "name": "Mayflower Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "220",
+        "x": "28235.9464",
+        "y": "38929.2962",
+        "lon": "103.835438722",
+        "lat": "1.36833724546"
+      },
+      {
+        "name": "St. Anthony’s Canossian Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Girls",
+        "cutoff": "219",
+        "x": "40092.5663",
+        "y": "35206.0519",
+        "lon": "103.941977167",
+        "lat": "1.33466313478"
+      },
+      {
+        "name": "Ahmad Ibrahim Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "218",
+        "x": "27599.0061",
+        "y": "46417.9159",
+        "lon": "103.829715265",
+        "lat": "1.43606162703"
+      },
+      {
+        "name": "Pasir Ris Crest Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "216",
+        "x": "17897.6699",
+        "y": "36189.1921",
+        "lon": "103.742543052",
+        "lat": "1.34355502309"
+      },
+      {
+        "name": "Pei Hwa Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "216",
+        "x": "33035.5279",
+        "y": "41378.0155",
+        "lon": "103.878566726",
+        "lat": "1.39048215138"
+      },
+      {
+        "name": "Queensway Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "216",
+        "x": "24483.7643",
+        "y": "31425.4771",
+        "lon": "103.801723614",
+        "lat": "1.3004751673"
+      },
+      {
+        "name": "Woodlands Ring Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "215",
+        "x": "24350.0767",
+        "y": "46423.6974",
+        "lon": "103.800520528",
+        "lat": "1.43611367871"
+      },
+      {
+        "name": "Beatty Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "214",
+        "x": "30081.0985",
+        "y": "35993.9017",
+        "lon": "103.852018498",
+        "lat": "1.34179051178"
+      },
+      {
+        "name": "Bedok View Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "214",
+        "x": "40259.3374",
+        "y": "34026.9156",
+        "lon": "103.943475225",
+        "lat": "1.32399939638"
+      },
+      {
+        "name": "Chua Chu Kang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "214",
+        "x": "18960.1468",
+        "y": "40593.0804",
+        "lon": "103.752088706",
+        "lat": "1.38338251615"
+      },
+      {
+        "name": "Peirce Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "214",
+        "x": "27620.7054",
+        "y": "38685.4157",
+        "lon": "103.829910355",
+        "lat": "1.36613167575"
+      },
+      {
+        "name": "Deyi Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "210",
+        "x": "30110.3012",
+        "y": "38739.6817",
+        "lon": "103.852281094",
+        "lat": "1.36662236533"
+      },
+      {
+        "name": "Yuan Ching Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "210",
+        "x": "15459.0619",
+        "y": "36005.3905",
+        "lon": "103.720630791",
+        "lat": "1.34189187165"
+      },
+      {
+        "name": "Zhenghua Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "210",
+        "x": "20425.1044",
+        "y": "41125.3984",
+        "lon": "103.765252306",
+        "lat": "1.38819702277"
+      },
+      {
+        "name": "Compassvale Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "209",
+        "x": "35406.5265",
+        "y": "42012.2662",
+        "lon": "103.899872151",
+        "lat": "1.39621757565"
+      },
+      {
+        "name": "Hillgrove Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "208",
+        "x": "19067.2795",
+        "y": "37204.2818",
+        "lon": "103.753052392",
+        "lat": "1.35273549466"
+      },
+      {
+        "name": "North Vista Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "207",
+        "x": "35301.377",
+        "y": "40357.4463",
+        "lon": "103.898926886",
+        "lat": "1.38125201443"
+      },
+      {
+        "name": "Bedok South Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "206",
+        "x": "41090.4082",
+        "y": "34158.4476",
+        "lon": "103.950942883",
+        "lat": "1.32518857758"
+      },
+      {
+        "name": "Orchid Park Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "204",
+        "x": "28505.3111",
+        "y": "44124.4477",
+        "lon": "103.837859241",
+        "lat": "1.41532032803"
+      },
+      {
+        "name": "Woodgrove Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "204",
+        "x": "23880.8285",
+        "y": "45596.0105",
+        "lon": "103.796304005",
+        "lat": "1.42862831473"
+      },
+      {
+        "name": "Bukit View Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "203",
+        "x": "18981.0465",
+        "y": "36428.8948",
+        "lon": "103.752277766",
+        "lat": "1.34572315149"
+      },
+      {
+        "name": "Coral Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "203",
+        "x": "40920.6793",
+        "y": "38861.2128",
+        "lon": "103.949419792",
+        "lat": "1.36771869932"
+      },
+      {
+        "name": "Greendale Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "203",
+        "x": "36708.9882",
+        "y": "42129.8724",
+        "lon": "103.911575841",
+        "lat": "1.39728080026"
+      },
+      {
+        "name": "New Town Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "202",
+        "x": "21308.1011",
+        "y": "32453.9625",
+        "lon": "103.773188634",
+        "lat": "1.30977589982"
+      },
+      {
+        "name": "Yishun Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "201",
+        "x": "27498.7974",
+        "y": "45541.0991",
+        "lon": "103.828814809",
+        "lat": "1.42813201166"
+      },
+      {
+        "name": "Chong Boon Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "200",
+        "x": "30747.9678",
+        "y": "38409.3793",
+        "lon": "103.858010939",
+        "lat": "1.36363517619"
+      },
+      {
+        "name": "Jurongville Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "200",
+        "x": "16403.0523",
+        "y": "37073.2481",
+        "lon": "103.729112686",
+        "lat": "1.35154955865"
+      },
+      {
+        "name": "Kent Ridge Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "200",
+        "x": "20388.6901",
+        "y": "31522.612",
+        "lon": "103.764927514",
+        "lat": "1.30135288691"
+      },
+      {
+        "name": "Westwood Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "200",
+        "x": "13351.7378",
+        "y": "37297.778",
+        "lon": "103.701694634",
+        "lat": "1.3535787821"
+      },
+      {
+        "name": "Christ Church Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "199",
+        "x": "23555.633",
+        "y": "45354.8923",
+        "lon": "103.79338186",
+        "lat": "1.4264476802"
+      },
+      {
+        "name": "Guangyang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "197",
+        "x": "29917.6934",
+        "y": "36312.6593",
+        "lon": "103.850550225",
+        "lat": "1.34467325302"
+      },
+      {
+        "name": "Admiralty Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "196",
+        "x": "24559.0473",
+        "y": "47504.7874",
+        "lon": "103.802398197",
+        "lat": "1.44589068951"
+      },
+      {
+        "name": "Tampines Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "196",
+        "x": "30303.3982",
+        "y": "31111.6895",
+        "lon": "103.854015629235",
+        "lat": "1.29763749676321"
+      },
+      {
+        "name": "Manjusri Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "196",
+        "x": "35612.3793",
+        "y": "34410.634",
+        "lon": "103.901719964",
+        "lat": "1.32747112017"
+      },
+      {
+        "name": "Greenridge Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "195",
+        "x": "21378.7199",
+        "y": "40444.4545",
+        "lon": "103.773821426",
+        "lat": "1.3820390461"
+      },
+      {
+        "name": "Greenview Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "195",
+        "x": "42397.8672",
+        "y": "39036.8079",
+        "lon": "103.962693408",
+        "lat": "1.36930603164"
+      },
+      {
+        "name": "Canberra Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "194",
+        "x": "25902.5329",
+        "y": "48321.8137",
+        "lon": "103.814470689",
+        "lat": "1.45327971133"
+      },
+      {
+        "name": "Punggol Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "194",
+        "x": "36435.5867",
+        "y": "42665.6542",
+        "lon": "103.909119265",
+        "lat": "1.40212629506"
+      },
+      {
+        "name": "Bishan Park Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "193",
+        "x": "27930.0555",
+        "y": "38542.5161",
+        "lon": "103.83269008",
+        "lat": "1.36483934512"
+      },
+      {
+        "name": "Jurong West Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "192",
+        "x": "13396.5338",
+        "y": "35271.7688",
+        "lon": "103.702098132",
+        "lat": "1.33525634492"
+      },
+      {
+        "name": "Juying Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "192",
+        "x": "11739.267",
+        "y": "35595.0173",
+        "lon": "103.687206506",
+        "lat": "1.3381788348"
+      },
+      {
+        "name": "Seng Kang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "191",
+        "x": "35237.8329",
+        "y": "40947.5032",
+        "lon": "103.898356041",
+        "lat": "1.38658829001"
+      },
+      {
+        "name": "Damai Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "190",
+        "x": "38443.3973",
+        "y": "35455.2236",
+        "lon": "103.927158545",
+        "lat": "1.33691716604"
+      },
+      {
+        "name": "Junyuan Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "190",
+        "x": "39139.1973",
+        "y": "37271.3441",
+        "lon": "103.933411373",
+        "lat": "1.35334124097"
+      },
+      {
+        "name": "Ping Yi Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "190",
+        "x": "37724.7424",
+        "y": "34360.456",
+        "lon": "103.920700671",
+        "lat": "1.3270167271"
+      },
+      {
+        "name": "Bedok Green Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "189",
+        "x": "39373.1923",
+        "y": "35113.5301",
+        "lon": "103.935513155",
+        "lat": "1.33382668054"
+      },
+      {
+        "name": "Naval Base Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "189",
+        "x": "27747.5834",
+        "y": "44573.2145",
+        "lon": "103.83105039",
+        "lat": "1.41937881637"
+      },
+      {
+        "name": "Northland Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "189",
+        "x": "28755.1907",
+        "y": "46389.19",
+        "lon": "103.840104688",
+        "lat": "1.43580183318"
+      },
+      {
+        "name": "Queenstown Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "189",
+        "x": "25759.973",
+        "y": "30656.5376",
+        "lon": "103.81319098",
+        "lat": "1.29352126768"
+      },
+      {
+        "name": "Regent Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "189",
+        "x": "18837.9644",
+        "y": "41697.1241",
+        "lon": "103.75099046",
+        "lat": "1.39336704307"
+      },
+      {
+        "name": "Yuhua Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "189",
+        "x": "14254.1664",
+        "y": "36001.008",
+        "lon": "103.709804106",
+        "lat": "1.34185171191"
+      },
+      {
+        "name": "Montfort Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Boys",
+        "cutoff": "189",
+        "x": "34181.0612",
+        "y": "39550.0727",
+        "lon": "103.888859849",
+        "lat": "1.373950678"
+      },
+      {
+        "name": "Bartley Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "33507.0841",
+        "y": "35840.051",
+        "lon": "103.882803001",
+        "lat": "1.34039870967"
+      },
+      {
+        "name": "Bendemeer Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "31077.3567",
+        "y": "34094.301",
+        "lon": "103.860970283",
+        "lat": "1.32461111298"
+      },
+      {
+        "name": "Boon Lay Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "13373.418",
+        "y": "36097.3626",
+        "lon": "103.701890026",
+        "lat": "1.34272269136"
+      },
+      {
+        "name": "Broadrick Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "33965.0568",
+        "y": "32152.5865",
+        "lon": "103.886917441",
+        "lat": "1.30705051252"
+      },
+      {
+        "name": "Bukit Merah Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "25740.4891",
+        "y": "29789.4541",
+        "lon": "103.813015971",
+        "lat": "1.28567966814"
+      },
+      {
+        "name": "Changkat Changi Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "41346.5926",
+        "y": "35741.6438",
+        "lon": "103.953245526",
+        "lat": "1.33950630042"
+      },
+      {
+        "name": "Dunearn Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "18167.6654",
+        "y": "38412.5227",
+        "lon": "103.744968395",
+        "lat": "1.36366209918"
+      },
+      {
+        "name": "East Spring Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "42169.5015",
+        "y": "37590.3683",
+        "lon": "103.9606407",
+        "lat": "1.35622509074"
+      },
+      {
+        "name": "East View Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "40939.3656",
+        "y": "37815.5113",
+        "lon": "103.949587248",
+        "lat": "1.35826175928"
+      },
+      {
+        "name": "Fajar Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "20366.4858",
+        "y": "39609.0901",
+        "lon": "103.764725966",
+        "lat": "1.37448406793"
+      },
+      {
+        "name": "Fuchun Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "21749.0554",
+        "y": "45839.9461",
+        "lon": "103.777148",
+        "lat": "1.43083398799"
+      },
+      {
+        "name": "Hong Kah Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "16148.7931",
+        "y": "37139.2351",
+        "lon": "103.726827983",
+        "lat": "1.35214622083"
+      },
+      {
+        "name": "Hougang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "33477.0592",
+        "y": "39958.0253",
+        "lon": "103.882533963",
+        "lat": "1.37764019359"
+      },
+      {
+        "name": "Loyang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "41882.9553",
+        "y": "38744.0092",
+        "lon": "103.958066438",
+        "lat": "1.36665831779"
+      },
+      {
+        "name": "Marsiling Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "21512.4315",
+        "y": "47374.6155",
+        "lon": "103.775021361",
+        "lat": "1.44471292125"
+      },
+      {
+        "name": "Northbrooks Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "29318.3199",
+        "y": "44759.4327",
+        "lon": "103.845164867",
+        "lat": "1.42106287718"
+      },
+      {
+        "name": "Outram Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "28424.9658",
+        "y": "29883.1022",
+        "lon": "103.837137068",
+        "lat": "1.28652666718"
+      },
+      {
+        "name": "Peicai Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "32083.4118",
+        "y": "37953.9002",
+        "lon": "103.870010748",
+        "lat": "1.35951583255"
+      },
+      {
+        "name": "Sembawang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "26166.5553",
+        "y": "47441.1161",
+        "lon": "103.816843258",
+        "lat": "1.44531502123"
+      },
+      {
+        "name": "Serangoon Garden Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "32023.5559",
+        "y": "39127.5335",
+        "lon": "103.869473062",
+        "lat": "1.37012975946"
+      },
+      {
+        "name": "Serangoon Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "35658.8371",
+        "y": "39628.0345",
+        "lon": "103.90213874",
+        "lat": "1.37465538845"
+      },
+      {
+        "name": "Shuqun Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "17602.8945",
+        "y": "35813.3616",
+        "lon": "103.739894449",
+        "lat": "1.34015604954"
+      },
+      {
+        "name": "Springfield Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "38809.1977",
+        "y": "36879.2407",
+        "lon": "103.930445978",
+        "lat": "1.34979532373"
+      },
+      {
+        "name": "Tanglin Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "19635.3713",
+        "y": "32445.8022",
+        "lon": "103.758158359",
+        "lat": "1.30970169267"
+      },
+      {
+        "name": "Whitley Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "29028.8963",
+        "y": "37509.2264",
+        "lon": "103.842563881",
+        "lat": "1.35549462372"
+      },
+      {
+        "name": "Woodlands Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "21454.2608",
+        "y": "46763.1808",
+        "lon": "103.774498782",
+        "lat": "1.43918331699"
+      },
+      {
+        "name": "Yio Chu Kang Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "28948.045",
+        "y": "39969.6375",
+        "lon": "103.841837458",
+        "lat": "1.37774570605"
+      },
+      {
+        "name": "Yusof Ishak Secondary School",
+        "type": "Govt",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "19844.0669",
+        "y": "36054.6887",
+        "lon": "103.760032628",
+        "lat": "1.34233921413"
+      },
+      {
+        "name": "Assumption English School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "24321.3922",
+        "y": "31599.7069",
+        "lon": "103.800264607",
+        "lat": "1.3020508212"
+      },
+      {
+        "name": "Yuying Secondary School",
+        "type": "Govt-aided",
+        "genderType": "Co-ed",
+        "cutoff": "188",
+        "x": "34358.9187",
+        "y": "37668.4145",
+        "lon": "103.890457624",
+        "lat": "1.35693360321"
+      },
+      {
+        "name": "Singapore Sports School",
+        "type": "Specialised, Independent",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "23116.5361",
+        "y": "45350.9472",
+        "lon": "103.789436173",
+        "lat": "1.42641192982"
+      },
+      {
+        "name": "Assumption Pathway school",
+        "type": "Specialised",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "20503.7069",
+        "y": "39076.8486",
+        "lon": "103.765959131",
+        "lat": "1.36967070465"
+      },
+      {
+        "name": "Crest Secondary School",
+        "type": "Specialised",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "17897.6699",
+        "y": "36189.1921",
+        "lon": "103.742543052",
+        "lat": "1.34355502309"
+      },
+      {
+        "name": "Northlight School",
+        "type": "Specialised",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "34356.9471",
+        "y": "32286.6873",
+        "lon": "103.890438787",
+        "lat": "1.30826319419"
+      },
+      {
+        "name": "NUS High School of Mathematics and Science",
+        "type": "Specialised, Independent",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "20887.8429",
+        "y": "32105.1188",
+        "lon": "103.769412493",
+        "lat": "1.3066209883"
+      },
+      {
+        "name": "School of Science and Technology",
+        "type": "Specialised, Independent",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "21399.6899",
+        "y": "32802.5153",
+        "lon": "103.774011529",
+        "lat": "1.31292810641"
+      },
+      {
+        "name": "School of the Arts, Singapore",
+        "type": "Specialised, Independent",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "29710.4145",
+        "y": "31302.682",
+        "lon": "103.848687419",
+        "lat": "1.29936480386"
+      },
+      {
+        "name": "Spectra Secondary School",
+        "type": "Specialised",
+        "genderType": "Co-ed",
+        "cutoff": "",
+        "x": "24785.4427",
+        "y": "46459.6089",
+        "lon": "103.804432703",
+        "lat": "1.4364385024"
+      }
+    ]
+  }
+]

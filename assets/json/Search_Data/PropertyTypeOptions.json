@@ -1,0 +1,156 @@
+[
+  {
+    "id": "",
+    "value": "All Types",
+    "sub": []
+  },
+  {
+    "id":"r-33",
+    "value": "All Non Landed",
+    "sub": [
+      {
+        "id":"r-34",
+        "value": "Condominium"
+      },
+      {
+        "id":"r-35",
+        "value": "Flat"
+      }
+    ]
+  },
+  {
+    "id":"14,15,16,17,18,19,20",
+    "value": "All HDB",
+    "sub": [
+      {
+        "id":"14",
+        "value": "1-Room"
+      },
+      {
+        "id":"15",
+        "value": "2-Room"
+      },
+      {
+        "id":"16",
+        "value": "3-Room"
+      },
+      {
+        "id":"17",
+        "value": "4-Room"
+      },
+      {
+        "id":"18",
+        "value": "5-Room"
+      },
+      {
+        "id":"19",
+        "value": "Executive"
+      },
+      {
+        "id":"20",
+        "value": "Jumbo"
+      }
+    ]
+  },
+
+  {
+    "id":"l-36",
+    "value": "All Landed",
+    "sub": [
+      {
+        "id":"l-37",
+        "value": "Bungalow"
+      },
+      {
+        "id":"l-38",
+        "value": "Semi-Detached House"
+      },
+      {
+        "id":"l-39",
+        "value": "Terrace House"
+      },
+      {
+        "id":"l-40",
+        "value": "Town House"
+      },
+      {
+        "id":"l-41",
+        "value": "Cluster House"
+      },
+      {
+        "id":"l-42",
+        "value": "Low-Cost House"
+      },
+      {
+        "id":"l-43",
+        "value": "Residential Land"
+      },
+      {
+        "id":"l-44",
+        "value": "House (Others)"
+      }
+    ]
+  },
+
+  {
+    "id":"c-60",
+    "value": "All Commercial",
+    "sub": [
+      {
+        "id":"c-61",
+        "value": "Office"
+      },
+      {
+        "id":"c-62",
+        "value": "Shop"
+      },
+      {
+        "id":"c-63",
+        "value": "Shop House"
+      },
+      {
+        "id":"c-64",
+        "value": "Hotel / Leisure"
+      },
+      {
+        "id":"c-65",
+        "value": "Commercial Complex"
+      },
+      {
+        "id":"c-66",
+        "value": "Commercial House"
+      },
+      {
+        "id":"c-67",
+        "value": "Commercial Land"
+      },
+      {
+        "id":"c-68",
+        "value": "Commercial (Others)"
+      },
+      {
+        "id":"c-69",
+        "value": "Agricultural Land"
+      }
+    ]
+  },
+
+  {
+    "id":"i-70",
+    "value": "All Industrial",
+    "sub": [
+      {
+        "id":"i-71",
+        "value": "Factory/Warehouse"
+      },
+      {
+        "id":"i-72",
+        "value": "Industrial Land"
+      },
+      {
+        "id":"i-73",
+        "value": "Industrial (Others)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+    "MenuItem": [
+        {
+            "title": "Kuala Lumpur",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Selangor",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Penang",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Johor",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Kedah",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Kelantan",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Labuan",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Melaka",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Negeri Sembilan",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Pahang",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Perak",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Perlis",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Putrajaya",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Sabah",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Sarawak",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        },
+        {
+            "title": "Terengganu",
+            "accordion": "right",
+            "MenuItem": [],
+            "screen": "CommonSelection"
+        }
+    ]
+}

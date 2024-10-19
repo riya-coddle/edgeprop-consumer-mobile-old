@@ -1,0 +1,135 @@
+{
+  "MenuItem": [
+    {
+      "title": "Home",
+      "accordion": false,
+      "MenuItem": [],
+      "screen": "HomeLanding"
+    },
+    {
+      "title": "Search for Property",
+      "accordion": false,
+      "screen": "ExploreLanding"
+    },
+    {
+      "title": "New Launches",
+      "accordion": false,
+      "screen": "ListingResult",
+      "params": {
+        "new_launch" : true,
+        //"isAdvancedOptions" : true
+      }
+    },
+    /*{
+         "title": "New Projects",
+         "accordion": true,
+         "MenuItem": [
+            {
+               "title": "Whats News",
+               "accordion": false,
+               "MenuItem": [],
+            },
+            {
+               "title": "Current Launch",
+               "accordion": false,
+               "MenuItem": []
+            },
+            {
+               "title": "Ready to Occupy",
+               "accordion": false,
+               "MenuItem": []
+            }
+         ]
+      },*/
+    {
+      "title": "News",
+      "accordion": true,
+      "MenuItem": [
+        {
+          "title": "News",
+          "accordion": false,
+          "MenuItem": [],
+          "screen": "NewsCategory",
+          "params": {
+            "category": "news"
+          }
+        },
+        {
+          "title": "In Depth",
+          "accordion": false,
+          "MenuItem": [],
+          "screen": "NewsCategory",
+          "params": {
+            "category": "in depth"
+          }
+        },
+        {
+          "title": "Lifestyle",
+          "accordion": false,
+          "MenuItem": [],
+          "screen": "NewsCategory",
+          "params": {
+            "category": "lifestyle"
+          }
+        },
+        {
+          "title": "新闻",
+          "accordion": false,
+          "MenuItem": [],
+          "screen": "NewsCategory",
+          "params": {
+            "category": "新闻"
+          }
+        }/*,
+        {
+          "title": "International",
+          "accordion": false,
+          "MenuItem": [],
+          "screen": "NewsCategory",
+          "params": {
+            "category": "international"
+          }
+        },
+        {
+          "title": "Special Features",
+          "accordion": false,
+          "MenuItem": [],
+          "screen": "NewsCategory",
+          "params": {
+            "category": "special features"
+          }
+        }*/
+      ]
+    },
+    /*{
+      "title": "News",
+      "accordion": false,
+      "screen": "NewsLanding"
+  },*/
+    {
+      "title": "About Us",
+      "accordion": false,
+      "screen": "AboutUs"
+    },
+    /*{
+      "title": "Chat With Us",
+      "accordion": false,
+      "screen": ""
+    },*/
+    {
+      "title": "Terms & Conditions",
+      "accordion": false,
+      "screen": "TC"
+    },
+    {
+      "title": "Privacy Policy",
+      "accordion": false,
+      "screen": "Pdpa"
+    },
+    {
+      "title": "Contact Us",
+      "accordion": false,
+      "screen": "ContactUs"
+    }
+  ]
+}

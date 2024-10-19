@@ -1,0 +1,2027 @@
+[
+  {
+    "train_type": "MRT",
+    "line_name": "Sungai Buloh - Kajang Line",
+    "line_code": "SBK",
+    "color": "green",
+    "stations": [
+      {
+        "name": "Sungai Buloh",
+        "code": "1",
+        "unicode": "SBK96",
+        "interchange": [
+          "KA08"
+        ],
+        "lat": 3.2063484,
+        "lon": 101.5817658,
+        "address": "47000 Sungai Buloh, Selangor, Malaysia\r\n",
+        "avg_price": 311
+      },
+      {
+        "name": "Kampung Selamat",
+        "code": "2",
+        "unicode": "SBK97",
+        "lat": 3.197266,
+        "lon": 101.578499,
+        "address": "Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 302
+      },
+      {
+        "name": "Kwasa Damansara",
+        "code": "4",
+        "unicode": "SBK98",
+        "lat": 3.1764085,
+        "lon": 101.5723452,
+        "address": "U 4, 40160 Shah Alam, Selangor, Malaysia",
+        "avg_price": 352
+      },
+      {
+        "name": "Kwasa Sentral",
+        "code": "5",
+        "unicode": "SBK99",
+        "lat": 3.1699221,
+        "lon": 101.5648028,
+        "address": "U 4, 40160 Shah Alam, Selangor, Malaysia",
+        "avg_price": 375
+      },
+      {
+        "name": "Kota Damansara",
+        "code": "6",
+        "unicode": "SBK100",
+        "lat": 3.1502807,
+        "lon": 101.5786994,
+        "address": "Kota Damansara, 47410 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 539
+      },
+      {
+        "name": "Surian",
+        "code": "7",
+        "unicode": "SBK101",
+        "lat": 3.1495737,
+        "lon": 101.5939611,
+        "address": "40150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 541
+      },
+      {
+        "name": "Mutiara Damansara",
+        "code": "8",
+        "unicode": "SBK102",
+        "lat": 3.1552621,
+        "lon": 101.6087186,
+        "address": "47820 Petaling Jaya, Selangor, Malaysia\r\n",
+        "avg_price": 561
+      },
+      {
+        "name": "Bandar Utama",
+        "code": "9",
+        "unicode": "SBK103",
+        "lat": 3.1467402,
+        "lon": 101.6186965,
+        "address": "Bandar Utama, 40150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 636
+      },
+      {
+        "name": "Taman Tun Dr. Ismail",
+        "code": "10",
+        "unicode": "SBK104",
+        "lat": 3.1363301,
+        "lon": 101.6304767,
+        "address": "40150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 647
+      },
+      {
+        "name": "Phileo Damansara",
+        "code": "11",
+        "unicode": "SBK105",
+        "lat": 3.1292114,
+        "lon": 101.6429865,
+        "address": "Bukit Kiara, 40150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 607
+      },
+      {
+        "name": "Pusat Bandar Damansara",
+        "code": "13",
+        "unicode": "SBK106",
+        "lat": 3.1432961,
+        "lon": 101.6623306,
+        "address": "50490 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 774
+      },
+      {
+        "name": "Semantan",
+        "code": "14",
+        "unicode": "SBK107",
+        "lat": 3.1509904,
+        "lon": 101.6653776,
+        "address": "50490 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 773
+      },
+      {
+        "name": "Muzium Negara",
+        "code": "15",
+        "unicode": "SBK108",
+        "interchange": [
+          "KA01"
+        ],
+        "lat": 3.1372973,
+        "lon": 101.6868407,
+        "address": "51, Jalan Damansara Kuala Lumpur Sentral, Jalan Damansara, Kuala Lumpur Sentral, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 636
+      },
+      {
+        "name": "Pasar Seni",
+        "code": "16",
+        "unicode": "SBK109",
+        "interchange": [
+          "KJ14"
+        ],
+        "lat": 3.1423651,
+        "lon": 101.69593,
+        "address": "30, Jalan Sultan Mohamed, Tijani 2, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 828
+      },
+      {
+        "name": "Merdeka",
+        "code": "17",
+        "unicode": "SBK110",
+        "interchange": [
+          "AG8",
+          "SP8"
+        ],
+        "lat": 3.1425033,
+        "lon": 101.7020008,
+        "address": "143, Jalan Hang Jebat, City Centre, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 911
+      },
+      {
+        "name": "Bukit Bintang",
+        "code": "18",
+        "unicode": "SBK111",
+        "lat": 3.1472072,
+        "lon": 101.7119959,
+        "address": "67, Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 931
+      },
+      {
+        "name": "Tun Razak Exchange",
+        "code": "20",
+        "unicode": "SBK112",
+        "lat": 3.1432367,
+        "lon": 101.7198341,
+        "address": "44, Jalan Delima, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 871
+      },
+      {
+        "name": "Cochrane",
+        "code": "21",
+        "unicode": "SBK113",
+        "lat": 3.132716,
+        "lon": 101.7230836,
+        "address": "Shirley Off Jalan, Jalan Cochrane, Maluri, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 488
+      },
+      {
+        "name": "Maluri",
+        "code": "22",
+        "unicode": "SBK114",
+        "interchange": [
+          "AG13"
+        ],
+        "lat": 3.124404,
+        "lon": 101.7272994,
+        "address": "Lrt Station Tmn Maluri, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 369
+      },
+      {
+        "name": "Taman Pertama",
+        "code": "23",
+        "unicode": "SBK115",
+        "lat": 3.1129559,
+        "lon": 101.7292869,
+        "address": "&, 1 & Jalan Cheras, Federal Territory of Kuala Lumpur, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 408
+      },
+      {
+        "name": "Taman Midah",
+        "code": "24",
+        "unicode": "SBK116",
+        "lat": 3.104291,
+        "lon": 101.7322091,
+        "address": "58, Jalan Midah 1, Taman Midah, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 391
+      },
+      {
+        "name": "Taman Mutiara",
+        "code": "25",
+        "unicode": "SBK117",
+        "lat": 3.0913898,
+        "lon": 101.7403122,
+        "address": "30, Jalan Mutiara Raya, Taman Mutiara Barat, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 387
+      },
+      {
+        "name": "Taman Connaught",
+        "code": "26",
+        "unicode": "SBK118",
+        "lat": 3.0791831,
+        "lon": 101.7451508,
+        "address": "138, CKE, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 375
+      },
+      {
+        "name": "Taman Suntex",
+        "code": "27",
+        "unicode": "SBK119",
+        "lat": 3.0715366,
+        "lon": 101.7635582,
+        "address": "Taman Suntex, 43200 Cheras 9 Miles, Selangor, Malaysia",
+        "avg_price": 281
+      },
+      {
+        "name": "Sri Raya",
+        "code": "28",
+        "unicode": "SBK120",
+        "lat": 3.0623324,
+        "lon": 101.772846,
+        "address": "43200 Cheras 9 Miles, Selangor, Malaysia",
+        "avg_price": 289
+      },
+      {
+        "name": "Bandar Tun HUssein Onn",
+        "code": "29",
+        "unicode": "SBK121",
+        "lat": 3.0483365,
+        "lon": 101.774461,
+        "address": "Cheras 11 Miles, 43200 Cheras 9 Miles, Selangor, Malaysia",
+        "avg_price": 367
+      },
+      {
+        "name": "Batu Sebelas Cheras",
+        "code": "30",
+        "unicode": "SBK122",
+        "lat": 3.0413744,
+        "lon": 101.7732745,
+        "address": "135, CKE, Kampung Sungai Sekamat, 43200 Kajang, Selangor, Malaysia",
+        "avg_price": 322
+      },
+      {
+        "name": "Bukit Dukung",
+        "code": "31",
+        "unicode": "SBK123",
+        "lat": 3.0264536,
+        "lon": 101.771054,
+        "address": "Cheras 11 Miles, 43200 Cheras 9 Miles, Selangor, Malaysia",
+        "avg_price": 286
+      },
+      {
+        "name": "Sungai Jernih",
+        "code": "33",
+        "unicode": "SBK124",
+        "lat": 3.0009563,
+        "lon": 101.7838233,
+        "address": "7573, 1, Kampung Sungai Kantan, 43000 Kajang, Selangor, Malaysia",
+        "avg_price": 266
+      },
+      {
+        "name": "Stadium Kajang",
+        "code": "34",
+        "unicode": "SBK125",
+        "lat": 2.9939991,
+        "lon": 101.7863188,
+        "address": "80921, Jalan Stadium, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+        "avg_price": 258
+      },
+      {
+        "name": "Kajang",
+        "code": "35",
+        "unicode": "SBK126",
+        "interchange": [
+          "KB06"
+        ],
+        "lat": 2.9833012,
+        "lon": 101.7900732,
+        "address": "18, Jalan Reko, Taman Sri Reko, 43000 Kajang, Selangor, Malaysia",
+        "avg_price": 245
+      }
+    ]
+  },
+  {
+    "train_type": "LRT",
+    "line_name": "Kelana Jaya Line",
+    "line_code": "KJ",
+    "color": "#e0115f",
+    "stations": [
+      {
+        "name": "Gombak",
+        "code": "1",
+        "unicode": "KJ1",
+        "lat": 3.2317932,
+        "lon": 101.7244271,
+        "address": "Taman Melati, 53100, Selangor, Malaysia",
+        "avg_price": 332
+      },
+      {
+        "name": "Taman Melati",
+        "code": "2",
+        "unicode": "KJ2",
+        "lat": 3.2195583,
+        "lon": 101.7219695,
+        "address": "Taman Melati, 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 372
+      },
+      {
+        "name": "Wangsa Maju",
+        "code": "3",
+        "unicode": "KJ3",
+        "lat": 3.2057519,
+        "lon": 101.7317958,
+        "address": "Desa Setapak, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 409
+      },
+      {
+        "name": "Sri Rampai",
+        "code": "4",
+        "unicode": "KJ4",
+        "lat": 3.199176,
+        "lon": 101.73747,
+        "address": "Wangsa Maju, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 437
+      },
+      {
+        "name": "Setiawangsa",
+        "code": "5",
+        "unicode": "KJ5",
+        "lat": 3.1757604,
+        "lon": 101.7358392,
+        "address": "Au 1, 54200 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 377
+      },
+      {
+        "name": "Jelatek",
+        "code": "6",
+        "unicode": "KJ6",
+        "lat": 3.1672038,
+        "lon": 101.735343,
+        "address": "Taman Keramat, 54200 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 544
+      },
+      {
+        "name": "Dato' Keramat",
+        "code": "7",
+        "unicode": "KJ7",
+        "lat": 3.1650908,
+        "lon": 101.7318401,
+        "address": "Kampung Datuk Keramat, 54000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 661
+      },
+      {
+        "name": "Damai",
+        "code": "8",
+        "unicode": "KJ8",
+        "lat": 3.1644052,
+        "lon": 101.7244881,
+        "address": "Kampung Datuk Keramat, 54000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 814
+      },
+      {
+        "name": "Ampang Park",
+        "code": "9",
+        "unicode": "KJ9",
+        "lat": 3.1598286,
+        "lon": 101.7189065,
+        "address": "Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 931
+      },
+      {
+        "name": "KLCC",
+        "code": "10",
+        "unicode": "KJ10",
+        "lat": 3.1591601,
+        "lon": 101.7136601,
+        "address": "Kampung Baru, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 909
+      },
+      {
+        "name": "Kampung Baru",
+        "code": "11",
+        "unicode": "KJ11",
+        "lat": 3.1613863,
+        "lon": 101.7066079,
+        "address": "Kampung Baru, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 891
+      },
+      {
+        "name": "Dang Wangi",
+        "code": "12",
+        "unicode": "KJ12",
+        "interchange": [
+          "MR8"
+        ],
+        "lat": 3.1569419,
+        "lon": 101.701975,
+        "address": "Kuala Lumpur, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 896
+      },
+      {
+        "name": "Masjid Jamek",
+        "code": "13",
+        "unicode": "KJ13",
+        "interchange": [
+          "AG7",
+          "SP7"
+        ],
+        "lat": 3.1492202,
+        "lon": 101.6963377,
+        "address": "Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 890
+      },
+      {
+        "name": "Pasar Seni",
+        "code": "14",
+        "unicode": "KJ14",
+        "interchange": [
+          "SBK16"
+        ],
+        "lat": 3.142439,
+        "lon": 101.6953097,
+        "address": "Pasar Seni, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 794
+      },
+      {
+        "name": "KL Sentral",
+        "code": "15",
+        "unicode": "KJ15",
+        "interchange": [
+          "MR1",
+          "KA01",
+          "KT1"
+        ],
+        "lat": 3.1344199,
+        "lon": 101.6862499,
+        "address": "Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 673
+      },
+      {
+        "name": "Bangsar",
+        "code": "16",
+        "unicode": "KJ16",
+        "lat": 3.1275884,
+        "lon": 101.6790622,
+        "address": "59000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 662
+      },
+      {
+        "name": "Abdullah Hukum",
+        "code": "17",
+        "unicode": "KJ17",
+        "interchange": [
+          "KD01"
+        ],
+        "lat": 3.1187342,
+        "lon": 101.6728972,
+        "address": "59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 592
+      },
+      {
+        "name": "Kerinchi",
+        "code": "18",
+        "unicode": "KJ18",
+        "lat": 3.115507,
+        "lon": 101.6685721,
+        "address": "Taman Bukit Pantai, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 530
+      },
+      {
+        "name": "KL Gateway - Universiti",
+        "code": "19",
+        "unicode": "KJ19",
+        "lat": 3.1145335,
+        "lon": 101.6616935,
+        "address": "Pantai Dalam, 59200 Kuala Lumpur. Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 489
+      },
+      {
+        "name": "Taman Jaya",
+        "code": "20",
+        "unicode": "KJ20",
+        "lat": 3.1040413,
+        "lon": 101.645312,
+        "address": "Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 400
+      },
+      {
+        "name": "Asia Jaya",
+        "code": "21",
+        "unicode": "KJ21",
+        "lat": 3.104344,
+        "lon": 101.6376945,
+        "address": "Seksyen 51a, 40150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 362
+      },
+      {
+        "name": "Taman Paramount",
+        "code": "22",
+        "unicode": "KJ22",
+        "lat": 3.1047162,
+        "lon": 101.6231918,
+        "address": "Taman Paramount, 40150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 379
+      },
+      {
+        "name": "Taman Bahagia",
+        "code": "23",
+        "unicode": "KJ23",
+        "lat": 3.11079,
+        "lon": 101.612856,
+        "address": "SS 2, 47300 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 470
+      },
+      {
+        "name": "Kelana Jaya",
+        "code": "24",
+        "unicode": "KJ24",
+        "lat": 3.1126258,
+        "lon": 101.6048522,
+        "address": "LDP, Ss 4, 47300 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 477
+      },
+      {
+        "name": "Lembah Subang",
+        "code": "25",
+        "unicode": "KJ25",
+        "lat": 3.1120949,
+        "lon": 101.5910348,
+        "address": "Taman Putra Damai, 47301 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 510
+      },
+      {
+        "name": "Ara Damansara",
+        "code": "26",
+        "unicode": "KJ26",
+        "lat": 3.1083975,
+        "lon": 101.586514,
+        "address": "47301 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 513
+      },
+      {
+        "name": "CGC - Glenmarie",
+        "code": "27",
+        "unicode": "KJ27",
+        "lat": 3.0958391,
+        "lon": 101.5904702,
+        "address": "Jalan Lapangan Terbang Subang, 40150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 480
+      },
+      {
+        "name": "Subang Jaya",
+        "code": "28",
+        "unicode": "KJ28",
+        "interchange": [
+          "KD09"
+        ],
+        "lat": 3.0848158,
+        "lon": 101.587731,
+        "address": "Ss 16, 47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 529
+      },
+      {
+        "name": "SS15",
+        "code": "29",
+        "unicode": "KJ29",
+        "lat": 3.0757048,
+        "lon": 101.5861318,
+        "address": "47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 517
+      },
+      {
+        "name": "SS18",
+        "code": "30",
+        "unicode": "KJ30",
+        "lat": 3.0671769,
+        "lon": 101.5861143,
+        "address": "Ss 18, 47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 487
+      },
+      {
+        "name": "USJ 7",
+        "code": "31",
+        "unicode": "KJ31",
+        "interchange": [
+          "SB7"
+        ],
+        "lat": 3.054784,
+        "lon": 101.5919629,
+        "address": "47610 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 448
+      },
+      {
+        "name": "Taipan",
+        "code": "32",
+        "unicode": "KJ32",
+        "lat": 3.0478657,
+        "lon": 101.5901229,
+        "address": "47610 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 434
+      },
+      {
+        "name": "Wawasan",
+        "code": "33",
+        "unicode": "KJ33",
+        "lat": 3.0350494,
+        "lon": 101.5881032,
+        "address": "47630 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 447
+      },
+      {
+        "name": "USJ 21",
+        "code": "34",
+        "unicode": "KJ34",
+        "lat": 3.02988,
+        "lon": 101.5817115,
+        "address": "Usj 17, 47630 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 438
+      },
+      {
+        "name": "Alam Megah",
+        "code": "35",
+        "unicode": "KJ35",
+        "lat": 3.0231343,
+        "lon": 101.5720823,
+        "address": "Putra Bestari, 40400 Shah Alam, Selangor, Malaysia",
+        "avg_price": 437
+      },
+      {
+        "name": "Subang Alam",
+        "code": "36",
+        "unicode": "KJ36",
+        "lat": 3.0096119,
+        "lon": 101.5721588,
+        "address": "The Glades, 40400 Shah Alam, Selangor, Malaysia",
+        "avg_price": 361
+      },
+      {
+        "name": "Putra Heights",
+        "code": "37",
+        "unicode": "KJ37",
+        "interchange": [
+          "SP31"
+        ],
+        "lat": 2.9959863,
+        "lon": 101.5755102,
+        "address": "Putra Point Commercial Centre, 40400 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 366
+      }
+    ]
+  },
+  {
+    "train_type": "LRT",
+    "line_name": "Sri Petaling Line",
+    "line_code": "SP",
+    "color": "#721422",
+    "stations": [
+      {
+        "name": "Sentul Timur",
+        "code": "1",
+        "unicode": "SP49",
+        "interchange": [
+          "AG1"
+        ],
+        "lat": 3.185655,
+        "lon": 101.6952172,
+        "address": "Sentul Pasar, 51000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 433
+      },
+      {
+        "name": "Sentul",
+        "code": "2",
+        "unicode": "SP50",
+        "interchange": [
+          "AG2"
+        ],
+        "lat": 3.178484,
+        "lon": 101.6955417,
+        "address": "Bandar Baru Sentul, 51000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 496
+      },
+      {
+        "name": "Titiwangsa",
+        "code": "3",
+        "unicode": "SP51",
+        "interchange": [
+          "MR11",
+          "AG3"
+        ],
+        "lat": 3.1734974,
+        "lon": 101.6953667,
+        "address": "Pekeliling, 53000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 568
+      },
+      {
+        "name": "PWTC",
+        "code": "4",
+        "unicode": "SP52",
+        "interchange": [
+          "AG4"
+        ],
+        "lat": 3.1663334,
+        "lon": 101.6935864,
+        "address": "Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 655
+      },
+      {
+        "name": "Sultan Ismail",
+        "code": "5",
+        "unicode": "SP53",
+        "interchange": [
+          "MR9",
+          "AG5"
+        ],
+        "lat": 3.161245,
+        "lon": 101.6941094,
+        "address": "Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 780
+      },
+      {
+        "name": "Bandaraya",
+        "code": "6",
+        "unicode": "SP54",
+        "interchange": [
+          "AG6"
+        ],
+        "lat": 3.1555674,
+        "lon": 101.6944849,
+        "address": "Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 844
+      },
+      {
+        "name": "Masjid Jamek",
+        "code": "7",
+        "unicode": "SP55",
+        "interchange": [
+          "KJ13",
+          "AG7"
+        ],
+        "lat": 3.1492202,
+        "lon": 101.6963384,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 890
+      },
+      {
+        "name": "Plaza Rakyat",
+        "code": "8",
+        "unicode": "SP56",
+        "interchange": [
+          "SBK17",
+          "AG8"
+        ],
+        "lat": 3.1440486,
+        "lon": 101.7021051,
+        "address": "Kuala Lumpur City Centre, 50150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 911
+      },
+      {
+        "name": "Hang Tuah",
+        "code": "9",
+        "unicode": "SP57",
+        "interchange": [
+          "MR4",
+          "AG9"
+        ],
+        "lat": 3.1400126,
+        "lon": 101.7059836,
+        "address": "Pudu, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 914
+      },
+      {
+        "name": "Pudu",
+        "code": "10",
+        "unicode": "SP58",
+        "interchange": [
+          "AG10"
+        ],
+        "lat": 3.1348785,
+        "lon": 101.7119569,
+        "address": "Pudu, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 828
+      },
+      {
+        "name": "Chan Sow Lin",
+        "code": "11",
+        "unicode": "SP59",
+        "interchange": [
+          "AG11"
+        ],
+        "lat": 3.1281053,
+        "lon": 101.7156368,
+        "address": "Fraser Business Park, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 497
+      },
+      {
+        "name": "Cheras",
+        "code": "12",
+        "unicode": "SP60",
+        "lat": 3.1126091,
+        "lon": 101.7141777,
+        "address": "Taman Ikan Emas, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 393
+      },
+      {
+        "name": "Salak Selantan",
+        "code": "13",
+        "unicode": "SP61",
+        "lat": 3.1022013,
+        "lon": 101.7061794,
+        "address": "Salak South, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 461
+      },
+      {
+        "name": "Bandar Tun Razak",
+        "code": "14",
+        "unicode": "SP62",
+        "lat": 3.0895759,
+        "lon": 101.7124665,
+        "address": "Taman Mulia, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 343
+      },
+      {
+        "name": "Bandar Tasik Selantan",
+        "code": "15",
+        "unicode": "SP63",
+        "interchange": [
+          "KB04",
+          "KT2"
+        ],
+        "lat": 3.0763798,
+        "lon": 101.7110342,
+        "address": "Bandar Tasek Selatan, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 332
+      },
+      {
+        "name": "Sungai Besi",
+        "code": "16",
+        "unicode": "SP64",
+        "lat": 3.0638424,
+        "lon": 101.7080623,
+        "address": "57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 394
+      },
+      {
+        "name": "Bukit Jalil",
+        "code": "17",
+        "unicode": "SP65",
+        "lat": 3.0581963,
+        "lon": 101.6921246,
+        "address": "Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 482
+      },
+      {
+        "name": "Sri Petaling",
+        "code": "18",
+        "unicode": "SP66",
+        "lat": 3.0614452,
+        "lon": 101.687074,
+        "address": "Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 492
+      },
+      {
+        "name": "Awan Besar",
+        "code": "19",
+        "unicode": "SP67",
+        "lat": 3.0621309,
+        "lon": 101.6705543,
+        "address": "57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 470
+      },
+      {
+        "name": "Muhibbah",
+        "code": "20",
+        "unicode": "SP68",
+        "lat": 3.0620505,
+        "lon": 101.6625077,
+        "address": "PPR Kampung Muhibbah, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 421
+      },
+      {
+        "name": "Alam Sutera",
+        "code": "21",
+        "unicode": "SP69",
+        "lat": 3.0547573,
+        "lon": 101.6564217,
+        "address": "101.6564217",
+        "avg_price": 427
+      },
+      {
+        "name": "Kinrara",
+        "code": "22",
+        "unicode": "SP70",
+        "lat": 3.0505629,
+        "lon": 101.644215,
+        "address": "Bandar Kinrara 2, 47180 Puchong, Selangor, Malaysia",
+        "avg_price": 395
+      },
+      {
+        "name": "IOI Puchong Jaya",
+        "code": "24",
+        "unicode": "SP71",
+        "lat": 3.0481336,
+        "lon": 101.6209146,
+        "address": "Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
+        "avg_price": 361
+      },
+      {
+        "name": "Pusat Bandar Puchong",
+        "code": "25",
+        "unicode": "SP72",
+        "lat": 3.0332683,
+        "lon": 101.6160411,
+        "address": "Pusat Bandar Puchong, 47100 Puchong, Selangor, Malaysia",
+        "avg_price": 415
+      },
+      {
+        "name": "Taman Perindustrian Puchong (TPP)",
+        "code": "26",
+        "unicode": "SP73",
+        "lat": 3.0228089,
+        "lon": 101.6134554,
+        "address": "Taman Perindustrian Puchong, 47100 Puchong, Selangor, Malaysia",
+        "avg_price": 379
+      },
+      {
+        "name": "Bandar Puteri",
+        "code": "27",
+        "unicode": "SP74",
+        "lat": 3.0171117,
+        "lon": 101.6128546,
+        "address": "Bandar Puteri Puchong, 47100 Puchong, Selangor, Malaysia",
+        "avg_price": 350
+      },
+      {
+        "name": "Puchong Perdana",
+        "code": "28",
+        "unicode": "SP75",
+        "lat": 3.0078314,
+        "lon": 101.6050085,
+        "address": "Taman Puchong Perdana, 47100 Puchong, Selangor, Malaysia",
+        "avg_price": 352
+      },
+      {
+        "name": "Puchong Prima",
+        "code": "29",
+        "unicode": "SP76",
+        "lat": 2.9998889,
+        "lon": 101.5966943,
+        "address": "Taman Puchong Prima, 47100 Puchong, Selangor, Malaysia",
+        "avg_price": 339
+      },
+      {
+        "name": "Putra Heights",
+        "code": "31",
+        "unicode": "SP77",
+        "interchange": [
+          "KJ37"
+        ],
+        "lat": 2.9959863,
+        "lon": 101.5755102,
+        "address": "Putra Point Commercial Centre, 40400 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 366
+      }
+    ]
+  },
+  {
+    "train_type": "LRT",
+    "line_name": "KL Monorail Line",
+    "line_code": "MR",
+    "color": "#7dba00",
+    "stations": [
+      {
+        "name": "KL Sentral",
+        "code": "1",
+        "unicode": "MR38",
+        "interchange": [
+          "KJ15",
+          "KA01",
+          "KT1"
+        ],
+        "lat": 3.13288,
+        "lon": 101.68783,
+        "address": "Jalan Tun Sambathan, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 656
+      },
+      {
+        "name": "Tun Sambanthan",
+        "code": "2",
+        "unicode": "MR39",
+        "lat": 3.1315013,
+        "lon": 101.690813,
+        "address": "Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 627
+      },
+      {
+        "name": "Maharajalela",
+        "code": "3",
+        "unicode": "MR40",
+        "lat": 3.1389065,
+        "lon": 101.699211,
+        "address": "Kampung Attap, 50150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 824
+      },
+      {
+        "name": "Hang Tuah",
+        "code": "4",
+        "unicode": "MR41",
+        "interchange": [
+          "AG9",
+          "SP9"
+        ],
+        "lat": 3.1407196,
+        "lon": 101.7060801,
+        "address": "Pudu, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 921
+      },
+      {
+        "name": "Imbi",
+        "code": "5",
+        "unicode": "MR42",
+        "lat": 3.14283,
+        "lon": 101.7094503,
+        "address": "Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 936
+      },
+      {
+        "name": "AirAsia - Bukit Bintang",
+        "code": "6",
+        "unicode": "MR43",
+        "lat": 3.1460787,
+        "lon": 101.7114834,
+        "address": "Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "avg_price": 929
+      },
+      {
+        "name": "Raja Chulan",
+        "code": "7",
+        "unicode": "MR44",
+        "lat": 3.1508317,
+        "lon": 101.7104206,
+        "address": "Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 917
+      },
+      {
+        "name": "Bukit Nanas",
+        "code": "8",
+        "unicode": "MR45",
+        "interchange": [
+          "KJ12"
+        ],
+        "lat": 3.1561686,
+        "lon": 101.7048302,
+        "address": "Kuala Lumpur, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 896
+      },
+      {
+        "name": "Medan Tuanku",
+        "code": "9",
+        "unicode": "MR46",
+        "interchange": [
+          "AG3",
+          "SP3"
+        ],
+        "lat": 3.1593489,
+        "lon": 101.6988784,
+        "address": "50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 896
+      },
+      {
+        "name": "Chow Kit",
+        "code": "10",
+        "unicode": "MR47",
+        "lat": 3.1674596,
+        "lon": 101.6984104,
+        "address": "50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 741
+      },
+      {
+        "name": "Titiwangsa",
+        "code": "11",
+        "unicode": "MR48",
+        "interchange": [
+          "AG3",
+          "SP3"
+        ],
+        "lat": 3.1732992,
+        "lon": 101.6959602,
+        "address": "53000 302, Kuala Lumpur, 53000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 567
+      }
+    ]
+  },
+  {
+    "train_type": "LRT",
+    "line_name": "Ampang Line",
+    "line_code": "AG",
+    "color": "#fe8e10",
+    "stations": [
+      {
+        "name": "Sentul Timur",
+        "code": "1",
+        "unicode": "AG78",
+        "interchange": [
+          "SP1"
+        ],
+        "lat": 3.185655,
+        "lon": 101.6952172,
+        "address": "Sentul Pasar, 51000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 433
+      },
+      {
+        "name": "Sentul",
+        "code": "2",
+        "unicode": "AG79",
+        "interchange": [
+          "SP2"
+        ],
+        "lat": 3.178484,
+        "lon": 101.6955417,
+        "address": "Bandar Baru Sentul, 51000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Titiwangsa",
+        "code": "3",
+        "unicode": "AG80",
+        "interchange": [
+          "MR11",
+          "SP3"
+        ],
+        "lat": 3.1734974,
+        "lon": 101.6953667,
+        "address": "Pekeliling, 53000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "PWTC",
+        "code": "4",
+        "unicode": "AG81",
+        "interchange": [
+          "SP4"
+        ],
+        "lat": 3.1663334,
+        "lon": 101.6935864,
+        "address": "Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Sultan Ismail",
+        "code": "5",
+        "unicode": "AG82",
+        "interchange": [
+          "SP5"
+        ],
+        "lat": 3.161245,
+        "lon": 101.6941094,
+        "address": "Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Bandaraya",
+        "code": "6",
+        "unicode": "AG83",
+        "interchange": [
+          "SP6"
+        ],
+        "lat": 3.1555674,
+        "lon": 101.6944849,
+        "address": "Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Masjid Jamek",
+        "code": "7",
+        "unicode": "AG84",
+        "interchange": [
+          "KJ13",
+          "SP7"
+        ],
+        "lat": 3.1492202,
+        "lon": 101.6963384,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Plaza Rakyat",
+        "code": "8",
+        "unicode": "AG85",
+        "interchange": [
+          "SBK17",
+          "SP8"
+        ],
+        "lat": 3.1440486,
+        "lon": 101.7021051,
+        "address": "Kuala Lumpur City Centre, 50150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Hang Tuah",
+        "code": "9",
+        "unicode": "AG86",
+        "interchange": [
+          "MR4",
+          "SP9"
+        ],
+        "lat": 3.1400126,
+        "lon": 101.7059836,
+        "address": "Pudu, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Pudu",
+        "code": "10",
+        "unicode": "AG87",
+        "interchange": [
+          "SP10"
+        ],
+        "lat": 3.1348785,
+        "lon": 101.7119569,
+        "address": "Pudu, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Chan Sow Lin",
+        "code": "11",
+        "unicode": "AG88",
+        "interchange": [
+          "SP11"
+        ],
+        "lat": 3.1281053,
+        "lon": 101.7156368,
+        "address": "Fraser Business Park, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Miharja",
+        "code": "12",
+        "unicode": "AG89",
+        "lat": 3.1209732,
+        "lon": 101.7179221,
+        "address": "Taman Miharja, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 411
+      },
+      {
+        "name": "Maluri",
+        "code": "13",
+        "unicode": "AG90",
+        "interchange": [
+          "SBK22"
+        ],
+        "lat": 3.1232899,
+        "lon": 101.727283,
+        "address": "56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 373
+      },
+      {
+        "name": "Pandan Jaya",
+        "code": "14",
+        "unicode": "AG91",
+        "lat": 3.1301408,
+        "lon": 101.7391223,
+        "address": "Pandan Indah, 56100 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 363
+      },
+      {
+        "name": "Pandan Indah",
+        "code": "15",
+        "unicode": "AG92",
+        "lat": 3.1345812,
+        "lon": 101.7465091,
+        "address": "Pandan Indah, 55100 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 384
+      },
+      {
+        "name": "Cempaka",
+        "code": "16",
+        "unicode": "AG93",
+        "lat": 3.1385202,
+        "lon": 101.7531301,
+        "address": "Taman Cempaka, 55100 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 343
+      },
+      {
+        "name": "Cahaya",
+        "code": "17",
+        "unicode": "AG94",
+        "lat": 3.140575,
+        "lon": 101.7566773,
+        "address": "68000 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 346
+      },
+      {
+        "name": "Ampang",
+        "code": "18",
+        "unicode": "AG95",
+        "lat": 3.1503182,
+        "lon": 101.7600489,
+        "address": "Pekan Ampang, 68000 Ampang Jaya, Selangor, Malaysia",
+        "avg_price": 391
+      }
+    ]
+  },
+  {
+    "train_type": "KTM",
+    "line_name": "Port Klang Line",
+    "line_code": "KD",
+    "color": "#dc241f",
+    "stations": [
+      {
+        "name": "Angkasapuri",
+        "code": "02",
+        "unicode": "KD151",
+        "lat": 3.1130556,
+        "lon": 101.6733333,
+        "address": "58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 543
+      },
+      {
+        "name": "Pantai Dalam",
+        "code": "03",
+        "unicode": "KD152",
+        "lat": 3.0955565,
+        "lon": 101.6700017,
+        "address": "59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 444
+      },
+      {
+        "name": "Petaling",
+        "code": "04",
+        "unicode": "KD153",
+        "lat": 3.0858336,
+        "lon": 101.663889,
+        "address": "Kampung Pasir, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 389
+      },
+      {
+        "name": "Jalan Templer",
+        "code": "05",
+        "unicode": "KD154",
+        "lat": 3.0833334,
+        "lon": 101.6563889,
+        "address": "Seksyen 1a, 46000 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 348
+      },
+      {
+        "name": "Kg. Dato Harun",
+        "code": "06",
+        "unicode": "KD155",
+        "lat": 3.0844442,
+        "lon": 101.6322228,
+        "address": "Pjs 51, 46000 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 295
+      },
+      {
+        "name": "Seri Setia",
+        "code": "07",
+        "unicode": "KD156",
+        "interchange": [
+          "BRT"
+        ],
+        "lat": 3.0844442,
+        "lon": 101.621667,
+        "address": "Ss 10, 46150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 320
+      },
+      {
+        "name": "Setia Jaya",
+        "code": "08",
+        "unicode": "KD157",
+        "interchange": [
+          "KJ28"
+        ],
+        "lat": 3.0830555,
+        "lon": 101.6111112,
+        "address": "Ss 10, 46150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 371
+      },
+      {
+        "name": "Subang Jaya",
+        "code": "09",
+        "unicode": "KD158",
+        "interchange": [
+          "KJ28"
+        ],
+        "lat": 3.0846545,
+        "lon": 101.5877371,
+        "address": "Ss 16, 47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 537
+      },
+      {
+        "name": "Batu Tiga",
+        "code": "10",
+        "unicode": "KD159",
+        "lat": 3.0758923,
+        "lon": 101.5597388,
+        "address": "40150 Shah Alam, Selangor, Malaysia\r\n",
+        "avg_price": 542
+      },
+      {
+        "name": "Shah Alam",
+        "code": "11",
+        "unicode": "KD160",
+        "lat": 3.0563884,
+        "lon": 101.5252778,
+        "address": "Seksyen 19, 40300 Shah Alam, Selangor, Malaysia\r\n",
+        "avg_price": 316
+      },
+      {
+        "name": "Padang Jawa",
+        "code": "12",
+        "unicode": "KD161",
+        "lat": 3.0522235,
+        "lon": 101.4924985,
+        "address": "Kampung Padang Jawa, 40200 Shah Alam, Selangor, Malaysia",
+        "avg_price": 294
+      },
+      {
+        "name": "Bukit Badak",
+        "code": "13",
+        "unicode": "KD162",
+        "lat": 3.0358342,
+        "lon": 101.4702791,
+        "address": "41000 Shah Alam, Selangor, Malaysia\r\n",
+        "avg_price": 284
+      },
+      {
+        "name": "Klang",
+        "code": "14",
+        "unicode": "KD163",
+        "lat": 3.0427767,
+        "lon": 101.4499989,
+        "address": "Kawasan 1, 41000 Klang, Selangor, Malaysia",
+        "avg_price": 293
+      },
+      {
+        "name": "Teluk Pulai",
+        "code": "15",
+        "unicode": "KD164",
+        "lat": 3.0399992,
+        "lon": 101.431666,
+        "address": "Taman Teluk Pulai, 41200 Klang, Selangor, Malaysia",
+        "avg_price": 472
+      },
+      {
+        "name": "Teluk Gadong",
+        "code": "16",
+        "unicode": "KD165",
+        "lat": 3.0338897,
+        "lon": 101.4250007,
+        "address": "Teluk Gadong, 41200 Klang, Selangor, Malaysia\r\n",
+        "avg_price": 391
+      },
+      {
+        "name": "Kg. Raja Uda",
+        "code": "17",
+        "unicode": "KD166",
+        "lat": 3.0202777,
+        "lon": 101.4102781,
+        "address": "Kampung Sungai Sireh Tambahan, 42000 Port Klang, Selangor, Malaysia",
+        "avg_price": 187
+      },
+      {
+        "name": "Jalan Kastam",
+        "code": "18",
+        "unicode": "KD167",
+        "lat": 3.0130565,
+        "lon": 101.4024997,
+        "address": "Kampung Keretapi, 42000 Port Klang, Selangor, Malaysia",
+        "avg_price": 172
+      },
+      {
+        "name": "Pelabuhan Klang",
+        "code": "19",
+        "unicode": "KD168",
+        "lat": 2.9997021,
+        "lon": 101.391345,
+        "address": "Kawasan 13, 42000 Port Klang, Selangor, Malaysia\r\n",
+        "avg_price": 144
+      }
+    ]
+  },
+  {
+    "train_type": "KTM",
+    "line_name": "Seremban Line",
+    "line_code": "KB",
+    "color": "#1964b7",
+    "stations": [
+      {
+        "name": "MidValley",
+        "code": "01",
+        "unicode": "KB178",
+        "lat": 3.118611,
+        "lon": 101.6786116,
+        "address": "Mid Valley City, 58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 592
+      },
+      {
+        "name": "Seputeh",
+        "code": "02",
+        "unicode": "KB179",
+        "lat": 3.1133336,
+        "lon": 101.6811115,
+        "address": "58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 549
+      },
+      {
+        "name": "Salak Selatan",
+        "code": "03",
+        "unicode": "KB180",
+        "interchange": [
+          "SP15",
+          "KT4"
+        ],
+        "lat": 3.0980554,
+        "lon": 101.7052782,
+        "address": "Salak South, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 446
+      },
+      {
+        "name": "Bandar Tasik Selatan",
+        "code": "04",
+        "unicode": "KB181",
+        "lat": 3.0763798,
+        "lon": 101.7110355,
+        "address": "Bandar Tasek Selatan, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 328
+      },
+      {
+        "name": "Serdang",
+        "code": "05",
+        "unicode": "KB182",
+        "lat": 3.0638424,
+        "lon": 101.7080623,
+        "address": "57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 276
+      },
+      {
+        "name": "Kajang",
+        "code": "06",
+        "unicode": "KB183",
+        "interchange": [
+          "SBK35"
+        ],
+        "lat": 2.982406,
+        "lon": 101.7905617,
+        "address": "43000 Kajang, Selangor, Malaysia",
+        "avg_price": 245
+      },
+      {
+        "name": "UKM",
+        "code": "07",
+        "unicode": "KB184",
+        "lat": 2.9396711,
+        "lon": 101.78785,
+        "address": "43600 Bangi, Selangor, Malaysia",
+        "avg_price": 183
+      },
+      {
+        "name": "Bangi",
+        "code": "08",
+        "unicode": "KB185",
+        "lat": 2.9041674,
+        "lon": 101.7861119,
+        "address": "43600 Kajang, Selangor, Malaysia",
+        "avg_price": 304
+      },
+      {
+        "name": "Batang Benar",
+        "code": "09",
+        "unicode": "KB186",
+        "lat": 2.8297221,
+        "lon": 101.8266669,
+        "address": "Kampung Sungai Mahang, 71800 Nilai, Negeri Sembilan, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Nilai",
+        "code": "10",
+        "unicode": "KB187",
+        "lat": 2.8022224,
+        "lon": 101.7994445,
+        "address": "Pekan Nilai, 71800 Nilai, Negeri Sembilan, Malaysia\r\n",
+        "avg_price": null
+      },
+      {
+        "name": "Labu",
+        "code": "11",
+        "unicode": "KB188",
+        "lat": 2.7538896,
+        "lon": 101.8263879,
+        "address": "Kampung Labu, 71900 Labu, Negeri Sembilan, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Tiroi",
+        "code": "12",
+        "unicode": "KB189",
+        "lat": 2.7411101,
+        "lon": 101.8716663,
+        "address": "Taman Tiroi, 71900 Labu, Negeri Sembilan, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Seremban",
+        "code": "13",
+        "unicode": "KB190",
+        "lat": 2.7188409,
+        "lon": 101.9408458,
+        "address": "Bandar Seremban, 70300 Seremban, Negeri Sembilan, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Senawang",
+        "code": "14",
+        "unicode": "KB191",
+        "lat": 2.6891819,
+        "lon": 101.9722438,
+        "address": "Taman Bukit Emas, 70450 Seremban, Negeri Sembilan, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "Sungai Gadut",
+        "code": "15",
+        "unicode": "KB192",
+        "lat": 2.6602081,
+        "lon": 101.9962764,
+        "address": "Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan, Malaysia\r\n",
+        "avg_price": null
+      },
+      {
+        "name": "Rembau",
+        "code": "16",
+        "unicode": "KB193",
+        "lat": 2.5930304,
+        "lon": 102.0945632,
+        "address": "Kampung Chuai, 71300 Rembau, Negeri Sembilan, Malaysia\r\n",
+        "avg_price": null
+      },
+      {
+        "name": "Tampin / Pulau Sebang",
+        "code": "17",
+        "unicode": "KB194",
+        "lat": 2.4632682,
+        "lon": 102.2270724,
+        "address": "78000 Alor Gajah, Malacca, Malaysia",
+        "avg_price": null
+      }
+    ]
+  },
+  {
+    "train_type": "KTM",
+    "line_name": "Port Klang Line",
+    "color": "#dc241f",
+    "line_code": "KA",
+    "stations": [
+      {
+        "name": "Tanjung Malim",
+        "code": "15",
+        "unicode": "KA136",
+        "lat": 3.6849017,
+        "lon": 101.5184221,
+        "address": "Kampung Stesen Tanjong Malim, 35900 Tanjong Malim, Perak, Malaysia",
+        "avg_price": 146
+      },
+      {
+        "name": "K. Kubu Bharu",
+        "code": "14",
+        "unicode": "KA137",
+        "lat": 3.5532404,
+        "lon": 101.6395909,
+        "address": "44000 Kuala Kubu Bharu, Selangor, Malaysia",
+        "avg_price": 67
+      },
+      {
+        "name": "Rasa",
+        "code": "13",
+        "unicode": "KA138",
+        "lat": 3.5003082,
+        "lon": 101.6341674,
+        "address": "Kampung Melayu Rasa, 44200 Rasa, Selangor, Malaysia",
+        "avg_price": 66
+      },
+      {
+        "name": "Batang Kali",
+        "code": "12",
+        "unicode": "KA139",
+        "lat": 3.468398,
+        "lon": 101.6378796,
+        "address": "44200 Batang Kali, Selangor, Malaysia",
+        "avg_price": 21
+      },
+      {
+        "name": "Serendah",
+        "code": "11",
+        "unicode": "KA140",
+        "lat": 3.3759626,
+        "lon": 101.6145444,
+        "address": "48200 Serendah, Selangor, Malaysia",
+        "avg_price": 82
+      },
+      {
+        "name": "Rawang",
+        "code": "10",
+        "unicode": "KA141",
+        "lat": 3.319178,
+        "lon": 101.5750033,
+        "address": "48000 Rawang, Selangor, Malaysia",
+        "avg_price": 217
+      },
+      {
+        "name": "Kuang",
+        "code": "09",
+        "unicode": "KA142",
+        "lat": 3.2582476,
+        "lon": 101.5547258,
+        "address": "Kuang, 47000 Kuang, Selangor, Malaysia",
+        "avg_price": 249
+      },
+      {
+        "name": "Sungai Buloh",
+        "code": "08",
+        "unicode": "KA143",
+        "interchange": [
+          "SBK01"
+        ],
+        "lat": 3.2062988,
+        "lon": 101.5801504,
+        "address": "47000 Sungai Buloh, Selangor, Malaysia",
+        "avg_price": 311
+      },
+      {
+        "name": "Kepong Sentral",
+        "code": "07",
+        "unicode": "KA144",
+        "lat": 3.208612,
+        "lon": 101.6280547,
+        "address": "Bandar Sri Damansara, 52100 Sungai Buloh, Selangor, Malaysia",
+        "avg_price": 355
+      },
+      {
+        "name": "Kepong",
+        "code": "06",
+        "unicode": "KA145",
+        "lat": 3.2025007,
+        "lon": 101.6372225,
+        "address": "Kepong, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 444
+      },
+      {
+        "name": "Segambut",
+        "code": "05",
+        "unicode": "KA146",
+        "lat": 3.1863897,
+        "lon": 101.663889,
+        "address": "Dutamas, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 541
+      },
+      {
+        "name": "Putra",
+        "code": "04",
+        "unicode": "KA147",
+        "lat": 3.165364,
+        "lon": 101.690931,
+        "address": "Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 623
+      },
+      {
+        "name": "Bank Negara",
+        "code": "03",
+        "unicode": "KA148",
+        "lat": 3.1547211,
+        "lon": 101.6930553,
+        "address": "Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 828
+      },
+      {
+        "name": "Kuala Lumpur",
+        "code": "02",
+        "unicode": "KA149",
+        "lat": 3.1398814,
+        "lon": 101.6937688,
+        "address": "Kampung Attap, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 730
+      },
+      {
+        "name": "KL Sentral",
+        "code": "01",
+        "unicode": "KA150",
+        "interchange": [
+          "KJ15",
+          "MR1",
+          "KT1",
+          "SBK15"
+        ],
+        "lat": 3.1342699,
+        "lon": 101.6860528,
+        "address": "Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 673
+      }
+    ]
+  },
+  {
+    "train_type": "KTM",
+    "line_name": "Seremban Line",
+    "color": "#1964b7",
+    "line_code": "KC",
+    "stations": [
+      {
+        "name": "Batu Caves",
+        "code": "05",
+        "unicode": "KC169",
+        "lat": 3.2377268,
+        "lon": 101.6813663,
+        "address": "Batu Caves, 68100 Batu Caves, Selangor, Malaysia",
+        "avg_price": 261
+      },
+      {
+        "name": "Taman Wahyu",
+        "code": "04",
+        "unicode": "KC170",
+        "lat": 3.2144286,
+        "lon": 101.6722494,
+        "address": "Taman Mastiara, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 347
+      },
+      {
+        "name": "Kampung Batu",
+        "code": "03",
+        "unicode": "KC171",
+        "lat": 3.2044396,
+        "lon": 101.6756907,
+        "address": "Kampung Batu, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 357
+      },
+      {
+        "name": "Batu Kentomen",
+        "code": "02",
+        "unicode": "KC172",
+        "lat": 3.1982454,
+        "lon": 101.6811624,
+        "address": "Kem Batu Kentonmen, 51100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 386
+      },
+      {
+        "name": "Sentul",
+        "code": "01",
+        "unicode": "KC173",
+        "lat": 3.1826243,
+        "lon": 101.6888188,
+        "address": "Sentul, 51100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 455
+      }
+    ]
+  },
+  {
+    "train_type": "ERL",
+    "line_name": "KLIA Transit Line",
+    "line_code": "KT",
+    "color": "#139593",
+    "stations": [
+      {
+        "name": "KL Sentral",
+        "code": "1",
+        "unicode": "KT127",
+        "interchange": [
+          "KJ15",
+          "MR1",
+          "KA01"
+        ],
+        "lat": 3.1342699,
+        "lon": 101.6860528,
+        "address": "Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 673
+      },
+      {
+        "name": "Bandar Tasik Selantan",
+        "code": "2",
+        "unicode": "KT128",
+        "interchange": [
+          "SP15",
+          "KB04"
+        ],
+        "lat": 3.0763807,
+        "lon": 101.7110353,
+        "address": "Bandar Tasek Selatan, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "avg_price": 328
+      },
+      {
+        "name": "Putrajaya & Cyberjaya",
+        "code": "3",
+        "unicode": "KT129",
+        "lat": 2.9313862,
+        "lon": 101.6710988,
+        "address": "Presint 7, 62000 Putrajaya, Malaysia",
+        "avg_price": 475
+      },
+      {
+        "name": "Salak Tinggi",
+        "code": "4",
+        "unicode": "KT130",
+        "lat": 2.8256528,
+        "lon": 101.7131934,
+        "address": "Bandar Baru Salak Tinggi, 43900 Sepang, Selangor, Malaysia",
+        "avg_price": 316
+      },
+      {
+        "name": "KLIA",
+        "code": "5",
+        "unicode": "KT131",
+        "lat": 2.7542713,
+        "lon": 101.7046264,
+        "address": "Kuala Lumpur International Airport, Level 1, Jalan Cta 4b, Kuala Lumpur International Airport, 43909 Sepang, Malaysia",
+        "avg_price": null
+      },
+      {
+        "name": "KLIA2",
+        "code": "6",
+        "unicode": "KT132",
+        "lat": 2.7447779,
+        "lon": 101.6851388,
+        "address": "Kuala Lumpur International Airport 2, 43900, Selangor, Malaysia",
+        "avg_price": null
+      }
+    ]
+  },
+  {
+    "train_type": "BRT",
+    "line_name": "Sunway Line",
+    "line_code": "SB",
+    "color": "#1e4d2b",
+    "stations": [
+      {
+        "name": "Sunway - Setia Jaya",
+        "code": "1",
+        "unicode": "SB195",
+        "interchange": [
+          "KD08"
+        ],
+        "lat": 3.0829336,
+        "lon": 101.6122699,
+        "address": "Ss 10, 46150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 372
+      },
+      {
+        "name": "Mentari",
+        "code": "2",
+        "unicode": "SB196",
+        "lat": 3.0762391,
+        "lon": 101.6100812,
+        "address": "Bandar Sunway, 46150 Petaling Jaya, Selangor, Malaysia",
+        "avg_price": 378
+      },
+      {
+        "name": "Sunway Lagoon",
+        "code": "3",
+        "unicode": "SB197",
+        "lat": 3.0707793,
+        "lon": 101.610572,
+        "address": "Jalan Lagoon Timur (9/1), Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 395
+      },
+      {
+        "name": "SunMed",
+        "code": "4",
+        "unicode": "SB198",
+        "lat": 3.0656931,
+        "lon": 101.6086435,
+        "address": "Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 400
+      },
+      {
+        "name": "SunU - Monash",
+        "code": "5",
+        "unicode": "SB199",
+        "lat": 3.0651815,
+        "lon": 101.6015142,
+        "address": "47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 452
+      },
+      {
+        "name": "South Quay - USJ 1",
+        "code": "6",
+        "unicode": "SB200",
+        "lat": 3.0615162,
+        "lon": 101.5967157,
+        "address": "Subang Light Industrial Park, 47500 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 452
+      },
+      {
+        "name": "USJ 7",
+        "code": "7",
+        "unicode": "SB201",
+        "interchange": [
+          "KJ31"
+        ],
+        "lat": 3.055226,
+        "lon": 101.5919495,
+        "address": "194, Persiaran Kewajipan, 47600 Subang Jaya, Selangor, Malaysia",
+        "avg_price": 433
+      }
+    ]
+  }
+]

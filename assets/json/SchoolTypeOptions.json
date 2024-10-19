@@ -1,0 +1,9 @@
+[
+  {"id":"Specialised","value":"Specialised"},
+  {"id":"Independent","value":"Independent"},
+  {"id":"Govt","value":"Govt"},
+  {"id":"Govt-aided","value":"Govt-aided"},
+  {"id":"Boys","value":"Boys"},
+  {"id":"Girls","value":"Girls"},
+  {"id":"Co-ed","value":"Co-ed"}
+]

@@ -1,0 +1,10 @@
+[
+  { value: "Balcony", id: "balcony" },
+  { value: "Garage", id: "garage" },
+  { value: "Maidsroom", id: "maidsroom" },
+  { value: "Outdoor Patio", id: "outdoor_patio" },
+  { value: "Private Garden", id: "private_garden" },
+  { value: "Roof Terrace", id: "roof_terrace" },
+  { value: "Terrace", id: "terrace" },
+  { value: "Walk-in-wardrobe", id: "walk_in_wardrobe" }
+]

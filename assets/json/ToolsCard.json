@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Home Value",
+        "subTitle": "Find out what is market rate of your home",
+        "icon": "home",
+        "screen": "HomeValue"
+    },
+    {
+        "title": "Affordability Calculator",
+        "subTitle": "Find out what is market worth of your home",
+        "icon": "calculator"
+    }
+]

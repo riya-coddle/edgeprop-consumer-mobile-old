@@ -1,0 +1,53 @@
+[
+  {
+    "content": "<h1>CONTACT US</h1>"
+  },
+  {
+    "content": "<h3><strong>The Edge Property Sdn Bhd</strong></h3>"
+  },
+  {
+    "content": "<p><strong>Address</strong>: Level 3 Menara KLK,No.1, Jalan PJU 7/6, Mutiara Damansara, 47810 Petaling Jaya, Selangor, Malaysia.</p>"
+  },
+  {
+    "content": "<p><strong>Phone</strong>: <a href=\"tel:+60377218000\">603-7721 8000</a></p>"
+  },
+  {
+    "content": "<p><strong>Fax</strong>: 603-7721 8280</p>"
+  },
+  {
+    "content": "<h3><strong>Product Development and Customer Advisory</strong></h3>"
+  },
+  {
+    "content": "<p><a href=\"mailto:support@edgeprop.my\">support@edgeprop.my</a> or call <a href=\"tel:+60377218174\">603-7721 8174</a> / <a href=\"tel:+60377218173\">8173</a></p>"
+  },
+  /*{
+    "content": "<p>• Singapore – <a href=\"mailto:support@theedgeproperty.com.sg\">support@theedgeproperty.com.sg</a> or call <a href=\"tel:+6062328688\">60 - 6232 8688</a></p>"
+  },*/
+  {
+    "content": "<p>Our support hotline is open Mondays to Fridays, 9am to 5.30pm. We are closed on weekends and public holidays.</p>"
+  },
+  {
+    "content": "<h3><strong>Editorial</strong></h3>"
+  },
+  {
+    "content": "<p><a href=\"mailto:editor@edgeprop.my\">editor@edgeprop.my</a> or fax 603-7721 8280</p>"
+  },
+  /*{
+    "content": "<p>• Singapore – <a href=\"mailto:propertyeditor.sg@bizedge.com\">propertyeditor.sg@bizedge.com</a> or fax 60 - 6232 8620</p>"
+  },*/
+  {
+    "content": "<h3><strong>Advertising & Marketing</strong></h3>"
+  },
+  {
+    "content": "<p><a href=\"mailto:marketing@edgeprop.my\">marketing@edgeprop.my</a> or call <a href=\"tel:+60377218000\">603-7721 8000</a> or fax 603-7721 8280</p>"
+  },
+  /*{
+    "content": "<p>• Singapore – <a href=\"mailto:ep@edgeprop.sg\">ep@edgeprop.sg</a> or call <a href=\"tel:+6062328675\">60 - 6232 8675</a> or fax 60 - 6232 8620.</p>"
+  }*/
+  {
+    "content": "<h3><strong>General Enquiries</strong></h3>"
+  },
+  {
+    "content": "<p><a href=\"mailto:support@edgeprop.my\">support@edgeprop.my</a></p>"
+  },
+]

@@ -1,0 +1,10 @@
+[
+  {"id":"posted_desc","value":"Latest First"},
+  {"id":"posted_asc","value":"Oldest First"},
+  {"id":"price_asc","value":"Price (Low-High)"},
+  {"id":"price_desc","value":"Price (High-Low)"},
+  /*{"id":"psf_asc","value":"PSF (Low-High)"},
+  {"id":"psf_desc","value":"PSF (High-Low)"},
+  {"id":"build_up_asc","value":"Size (Low-High)"},
+  {"id":"build_up_asc_desc","value":"Size (High-Low)"}*/
+]

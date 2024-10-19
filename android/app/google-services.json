@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "22990985339",
+    "firebase_url": "https://edgepropmy.firebaseio.com",
+    "project_id": "edgepropmy",
+    "storage_bucket": "edgepropmy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22990985339:android:ba127e3f98eeadc0",
+        "android_client_info": {
+          "package_name": "my.com.theedgeproperty.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22990985339-033e8bf2erjivcf3d30ff03gig1idgv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "c5b9eeffa900549eb5b5814e5f593b017e08ac91"
+          }
+        },
+        {
+          "client_id": "22990985339-0slohlf4m08p0soaqntmb42f2sl4k69i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "148430bc53f4670eda2eea0faaafd1fc57f33a7e"
+          }
+        },
+        {
+          "client_id": "22990985339-88r881f5or9d4hk01e4m62stov11j12d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "8a0bc1ef2d41cdd5ee3965b14b2c88008e28b88c"
+          }
+        },
+        {
+          "client_id": "22990985339-fth3te585rblrbms1tivimgnua9stvco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "9b56354e73fdad4014dc372d432a40143a1294bf"
+          }
+        },
+        {
+          "client_id": "22990985339-hqudegvhqmoejp2png5n6ui1b9u0vstn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "559a1d7e99d22615b24e7321cea389d5d3bf279e"
+          }
+        },
+        {
+          "client_id": "22990985339-ia5p0p16i032vf9an0mh46qb736pltqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "39e70d38fc6e3709d5e4c2ba455cbefbfd1b5535"
+          }
+        },
+        {
+          "client_id": "22990985339-n4sjl438nl6n5rr52j0an11ho7biduvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "781dab030c359f34aadd4ae775f30da0c9a5479e"
+          }
+        },
+        {
+          "client_id": "22990985339-ractegcfimdbmft8so1gtp2d67b6f815.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "20884917f4fbf6b397ea61e08be7dae7fcf604a4"
+          }
+        },
+        {
+          "client_id": "22990985339-sh60ftogb25la0e9magp48e2kl4kkqgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.theedgeproperty.app",
+            "certificate_hash": "848f1da9700bb3129297e7eecd45349a7a3d8592"
+          }
+        },
+        {
+          "client_id": "22990985339-iq3fj9u7d2j0bhbpnaqev7l5546tlhra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtv1bJv-BWHEfCqVbFIa3I8H53c-o-s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22990985339-iq3fj9u7d2j0bhbpnaqev7l5546tlhra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22990985339-jk4os9iq5ol4cbne9kv2mcndlf2r2do0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theedgeproperty.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

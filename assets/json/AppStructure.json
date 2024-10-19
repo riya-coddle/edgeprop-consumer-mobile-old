@@ -1,0 +1,184 @@
+[
+  {
+    "id": "root",
+    "routeName": "Root",
+    "children": [
+      {
+        "id": "homelanding",
+        "routeName": "HomeLanding",
+      },
+      {
+        "id": "ExploreLanding",
+        "routeName": "ExploreLanding",
+      },
+      {
+        "id": "newslanding",
+        "routeName": "NewsLanding",
+      },
+      {
+        "id": "propmall",
+        "routeName": "PropMall",
+      },
+      {
+        "id": "profilelanding",
+        "routeName": "ProfileLanding",
+      },
+    ]
+  },
+  {
+    "id": "PropMallDetail",
+    "routeName": "PropMallDetail"
+  },
+  {
+    "id": "listingdetailnav",
+    "routeName": "ListingDetailNav"
+  },
+  {
+    "id": "newscategory",
+    "routeName": "NewsCategory"
+  },
+  {
+    "id": "newsdetail",
+    "routeName": "NewsDetail"
+  },
+  {
+    "id": "newssearchresult",
+    "routeName": "NewsSearchResult"
+  },
+  {
+    "id": "enquiry",
+    "routeName": "Enquiry"
+  },
+  {
+      "id": "PropertySearchMenu",
+      "routeName": "PropertySearchMenu"
+  },
+  {
+      "id": "SchoolOption",
+      "routeName": "SchoolOption"
+  },
+  {
+      "id": "SchoolSelection",
+      "routeName": "SchoolSelection"
+  },
+  {
+      "id": "mrtselectionnav",
+      "routeName": "MRTSelectionNav"
+  },
+  {
+      "id": "login",
+      "routeName": "Login"
+  },
+  {
+      "id": "ListingResult",
+      "routeName": "ListingResult"
+  },
+  {
+    "id": "searchOption",
+    "routeName": "SearchOption"
+  },
+  {
+    "id": "propertytypemenu",
+    "routeName": "PropertyTypeMenu"
+  },
+  {
+    "id": "regwall",
+    "routeName": "RegWall"
+  },
+  {
+    "id": "signup1",
+    "routeName": "SignUp_1"
+  },
+  {
+    "id": "signup2",
+    "routeName": "SignUp_2"
+  },
+  {
+    "id": "signup3",
+    "routeName": "SignUp_3"
+  },
+  {
+    "id": "commonselection",
+    "routeName": "CommonSelection"
+  },
+  {
+    "id": "mortgagecalculator",
+    "routeName": "MortgageCalculator"
+  },
+  {
+    "id": "listingBookmarks",
+    "routeName": "ListingBookmarks"
+  },
+  {
+    "id": "HomeValue",
+    "routeName": "HomeValue"
+  },
+  {
+    "id": "commonmap",
+    "routeName": "CommonMap"
+  },
+  {
+    "id": "pdpa",
+    "routeName": "Pdpa"
+  },
+  {
+    "id": "aboutus",
+    "routeName": "AboutUs"
+  },
+  {
+    "id": "tc",
+    "routeName": "TC"
+  },
+  {
+    "id": "contactus",
+    "routeName": "ContactUs"
+  },
+  {
+    "id": "statemenu",
+    "routeName": "StateMenu"
+  },
+  {
+    "id": "emailupdate",
+    "routeName": "EmailUpdate"
+  },
+  {
+    "id": "usernameupdate",
+    "routeName": "UsernameUpdate"
+  },
+  {
+    "id": "passwordupdate",
+    "routeName": "PasswordUpdate"
+  },
+  {
+    "id": "noficationupdate",
+    "routeName": "NotificationUpdate"
+  },
+  {
+    "id": "myshortlists",
+    "routeName": "MyShortLists"
+  },
+  {
+    "id": "shortlistitems",
+    "routeName": "ShortlistItems"
+  },
+    {
+    "id": "mysavedsearch",
+    "routeName": "MySavedSearch"
+  },
+  {
+    "id": "signuplanding",
+    "routeName": "SignUpLanding"
+  },
+  {
+    "id": "authentication",
+    "routeName": "Authentication"
+  },
+  {
+    "id": "WelcomeLanding",
+    "routeName": "WelcomeLanding"
+  },
+  {
+    "id": "ForgotPassword",
+    "routeName": "ForgotPassword"
+  },
+]

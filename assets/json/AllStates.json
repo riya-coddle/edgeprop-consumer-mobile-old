@@ -1,0 +1,72 @@
+[
+        {
+            "label": "All States",
+            "value": "all"
+            
+        },
+        {
+            "label": "Kuala Lumpur",
+            "value": "Kuala Lumpur"
+            
+        },
+        {
+            "label": "Selangor",
+            "value": "Selangor"
+        },
+        {
+            "label": "Penang",
+            "value": "Penang"
+        },
+        {
+            "label": "Johor",
+            "value": "Johor"
+        },
+        {
+            "label": "Kedah",
+            "value": "Kedah"
+        },
+        {
+            "label": "Kelantan",
+            "value": "Kelantan"
+        },
+        {
+            "label": "Labuan",
+            "value": "Labuan"
+        },
+        {
+            "label": "Melaka",
+            "value": "Melaka"
+        },
+        {
+            "label": "Negeri Sembilan",
+            "value": "Negeri Sembilan"
+        },
+        {
+            "label": "Pahang",
+            "value": "Pahang"
+        },
+        {
+            "label": "Perak",
+            "value": "Perak"
+        },
+        {
+            "label": "Perlis",
+            "value": "Perlis"
+        },
+        {
+            "label": "Putrajaya",
+            "value": "Putrajaya"
+        },
+        {            
+            "label": "Sabah",
+            "value": "Sabah"
+        },
+        {            
+            "label": "Sarawak",
+            "value": "Sarawak"
+        },
+        {
+            "label": "Terengganu",
+            "value": "Terengganu"
+        }
+    ]
